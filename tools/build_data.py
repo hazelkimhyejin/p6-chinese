@@ -85,3 +85,21 @@ for d in out["dialogues"]:
 from collections import Counter
 print(len(out["mcq"]), "mcq", Counter(q["type"] for q in out["mcq"]))
 print(len(out["cloze"]), "cloze", len(out["dialogues"]), "dialogues", len(out["vocab"]), "vocab")
+
+# ---- English translations (tools/source/en/<School>.txt, "N|English" in the order of needed_en.py)
+import sys
+sys.path.insert(0, str(HERE))
+from needed_en import needed  # noqa: E402
+D2 = json.loads((ROOT / "data" / "questions.json").read_text(encoding="utf-8"))
+D2["en"] = {}
+for s in D2["schools"]:
+    zh = needed(s["id"])
+    lines = [l for l in (HERE / "source" / "en" / f"{s['id']}.txt").read_text(encoding="utf-8").splitlines() if l.strip()]
+    en = {}
+    for l in lines:
+        n, t = l.split("|", 1)
+        en[int(n)] = t.strip()
+    assert sorted(en) == list(range(1, len(zh) + 1)), (s["id"], len(zh), len(en))
+    D2["en"][s["id"]] = {z: en[i + 1] for i, z in enumerate(zh)}
+(ROOT / "data" / "questions.json").write_text(json.dumps(D2, ensure_ascii=False, indent=1), encoding="utf-8")
+print("english added for", len(D2["en"]), "schools,", sum(len(v) for v in D2["en"].values()), "strings")

@@ -1,0 +1,112 @@
+1|My phone's battery is flat, so I can't use it for the time being.
+2|temporarily; for the time being
+3|The scenery here is charming and left a deep impression on me.
+4|impression
+5|What parents want most is always their children's care and ___ (company).
+6|Dogs are humans' most ___ (loyal) friends.
+7|Dad nodded, ___ that he agreed to let me play basketball with my friends.
+8|to explain
+9|to show; to express
+10|to get good results
+11|to think; to consider (an opinion)
+12|Mum and Dad's love makes me feel ___ warmth.
+13|completely
+14|fulfilling; rich
+15|boundless; infinite
+16|plentiful (food)
+17|Daming has very good results and loves helping others; he is everyone's role model.
+18|role model; example
+19|makes people become exactly the same
+20|makes people want to work together
+21|good news worth reporting
+22|a person or thing worth learning from
+23|These photos make me recall interesting things from my childhood.
+24|to recall; to remember the past
+25|to forget past things
+26|to think of things from the past
+27|to wait for future things
+28|to be doing present things
+29|___ you refuse to help me, I ___ tell Mum.
+30|if … then
+31|even though … still
+32|only if … then
+33|besides … also
+34|___ it is raining outside, ___ my younger brother insists on going out to play.
+35|because … so
+36|even if … still want to
+37|due to … therefore
+38|although … but
+39|___, disturbing my elder sister who is preparing for her exams.
+40|It rained the whole day today
+41|Dad has already come home from work
+42|My younger sister doesn't know how to do her homework
+43|My younger brother was singing loudly in his room
+44|My younger sister performed in a very creative way, ___.
+45|winning warm applause from the audience
+46|everyone thought it was too ordinary
+47|the audience felt very bored
+48|the contestants all felt very happy
+49|Which sentence is correct? (考虑 – to consider)
+50|to consider; to think over
+51|Mum asked me whether I had considered what job I want to do in the future.
+52|The teacher asked us to consider together what we did wrong just now.
+53|He stood in front of the mirror and carefully considered the clothes he would wear today.
+54|This question is too hard; my sister needs time to consider it well.
+55|Which sentence is correct? (毕业 – to graduate)
+56|to graduate
+57|After a whole day of lessons, my brother finally graduated from tuition class.
+58|After working at this company for three years, Dad decided to graduate.
+59|After graduating from university, Xiaomei decided to work overseas.
+60|I have finally graduated from Primary 5; next year I am a Primary 6 student.
+61|Which sentence is correct? (嘲笑 – to laugh at, to mock)
+62|to laugh at; to mock
+63|Looking at her cute grandson, Grandma showed a kind mocking laugh on her face.
+64|Xiaoming came first in the exam, and everyone mocked him one after another.
+65|Hearing the children's mocking, the teachers all felt very happy.
+66|He kept mocking me for singing badly, so the class monitor decided to tell the teacher.
+67|Dingding has loved playing basketball since he was little. Whenever he saw the school team players playing on the court, he felt very envious. How he (16) to one day represent the school in a basketball competition! To make this wish come true, he went to the nearby basketball court to practise every day after school.
+68|Although the practice was very (17), Dingding never complained of being tired. Dingding's shooting had never been good, and he kept missing. Seeing his teammates play so well, Dingding began to lose confidence in himself and wanted to (18) basketball.
+69|His good friend Xiaole found out and (19) him: "Don't worry, I will train with you." With Xiaole's help, Dingding practised hard every day, and his basketball skills got better and better.
+70|Later, Dingding (20) the pressure in his heart and successfully got into the school team.
+71|to fantasise
+72|to hope for; to look forward to
+73|to plan
+74|willing
+75|serious
+76|troubled; worried
+77|tiring; hard
+78|detailed
+79|to give up
+80|to refuse
+81|to prevent
+82|to leave
+83|to admire; to praise
+84|to instruct
+85|to comfort
+86|to remind
+87|to control
+88|to avoid
+89|to face
+90|to overcome
+91|could it be just a small skin wound
+92|luckily, before the fire got too big
+93|your home wasn't affected, was it
+94|actually there are many causes of fires
+95|the scene of the fire was so scary
+96|I heard it was caused by electrical appliances using too much power
+97|it's the first time I've been through something so dangerous
+98|someone in the block opposite saw thick smoke coming out of the flat
+99|Yesterday, there was a fire at my upstairs neighbour's home.
+100|How did the fire happen?
+101|___.
+102|Was it serious?
+103|___, the firefighters rushed to the scene and put out the fire.
+104|That's really lucky!
+105|Yes. ___, and immediately called the fire station.
+106|___?
+107|No, but the neighbour's furniture was all burnt, and the walls were blackened.
+108|I hope everyone will be careful when using electrical appliances, to avoid accidents.
+109|to criticise
+110|to point out someone's mistakes and give suggestions
+111|excellent; outstanding
+112|very good in character and behaviour

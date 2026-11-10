@@ -1,1 +1,2 @@
 streamlit>=1.42
+pypinyin>=0.51

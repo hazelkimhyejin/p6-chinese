@@ -1,0 +1,112 @@
+1|Downstairs from my home there is a shop that rents out comic books.
+2|to rent out
+3|Dad got stuck in a traffic jam after work and came home very late.
+4|blocked; jammed
+5|It started raining, and my younger sister ___ (opened up) a small umbrella.
+6|When the performance ended, ___ (warm) applause rang out in the hall.
+7|I shook my head at Mum, ___ that I didn't want to eat any more.
+8|to tell
+9|to announce
+10|to show; to express
+11|to narrate; to tell (a story)
+12|Seeing the trophy on the table, past events ___ in my mind again.
+13|to appear (in the mind)
+14|to recall
+15|to reveal; to show (on the face)
+16|to display
+17|This matter is very important; we must think it over clearly.
+18|to consider; to think over
+19|to understand the details
+20|to think about it carefully
+21|to make the final decision
+22|to complete the task smoothly
+23|The teacher gave too much homework, and the students complained one after another.
+24|to complain
+25|to keep making noise
+26|to say rudely
+27|to say what you are unhappy about
+28|to gather round and discuss
+29|___ work the boss instructs, my elder brother will do it immediately.
+30|as long as
+31|all; every (whatever)
+32|because; due to
+33|if
+34|___ many ways were tried, everyone ___ couldn't help him change his bad habit.
+35|not only … but also
+36|no matter … still
+37|because … so
+38|even though … still
+39|___, our whole family is proud of him.
+40|If my younger brother really did something wrong
+41|If my younger brother goes to the park tomorrow
+42|My younger brother picked up a wallet
+43|My younger brother won a prize in the competition
+44|Since taking part in the school's environmental activities, ___.
+45|my elder sister buys new clothes every day
+46|my elder brother reads Chinese books every day
+47|my younger brother always switches off the lights
+48|my younger sister always does more exercise
+49|Which sentence is correct? (促进 – to promote, to boost)
+50|to promote; to boost; to help improve
+51|Having dinner together as a family can promote family harmony.
+52|The teacher often reminds us to read more books to promote knowledge.
+53|After reading the essay, the teacher pointed out the places that need promoting.
+54|Xiaoming lent storybooks to his classmates to promote their friendship.
+55|Which sentence is correct? (五彩缤纷 – colourful)
+56|bright and colourful; multicoloured
+57|My sister's singing is so colourful that everyone listens, fascinated.
+58|The braised pork Mum made is so colourful that you want to eat it just by looking.
+59|On graduation day, the hall was filled with colourful balloons.
+60|After hearing the news, Xiaowen's mood became colourful.
+61|Which sentence is correct? (半途而废 – to give up halfway)
+62|to give up halfway
+63|The movie was really boring; I watched for a while and gave up halfway.
+64|Mum often teaches me not to give up halfway when doing things.
+65|Xiaoming gave up halfway through his meal and went downstairs to play football with friends.
+66|This pen really gives up halfway — it broke halfway through writing.
+67|Little Rabbit wanted to learn to draw, but it could never draw well. Mother Rabbit said to Little Rabbit, "First you must believe you can learn it, then practise (16), and you will succeed." Little Rabbit nodded, picked up a brush and started practising.
+68|On the first day, Little Rabbit drew a carrot, but it didn't look good at all. It felt a bit discouraged and wanted to give up. Mother Rabbit did not (17) it; instead she smiled and said, "Everyone is like this at the start. (18) great artists practised bit by bit."
+69|In the days that followed, Little Rabbit practised drawing every day after school. When it drew badly, it erased and drew again. A week later, Little Rabbit found it was drawing better and better. Its heart was (19) with hope.
+70|On the weekend, the school held a drawing competition, and Little Rabbit signed up. It carefully drew a picture called "The Forest in Spring". When the results came out, Little Rabbit won first prize! It was (20), and hugged its mother saying, "I actually succeeded!"
+71|Little Rabbit finally understood a lesson: whatever you do, as long as you believe in yourself, you can do it well.
+72|warm-hearted
+73|strict
+74|diligently; hardworking
+75|quickly
+76|to criticise; to scold
+77|to worry
+78|to remind
+79|to encourage
+80|although
+81|even
+82|and; moreover
+83|apart from
+84|to leave behind
+85|to increase
+86|to be filled with
+87|to obtain; to achieve
+88|exciting; thrilling
+89|to suddenly understand
+90|fully satisfied
+91|overjoyed (by a happy surprise)
+92|the other passengers all helped
+93|did you lose your temper again?
+94|this made me very angry
+95|what made you so worked up?
+96|I saw someone drawing all over the MRT train
+97|I met someone with no civic-mindedness at all
+98|he threw his sweet wrapper on the floor
+99|so I went up and advised him not to do that
+100|Brother, something happened today that made me very angry.
+101|___ Tell me quickly.
+102|When I took the MRT to school this morning, ___. Do you know what he did?
+103|Don't tell me he littered on the MRT?
+104|Exactly, ___, and then he wanted to turn and walk off.
+105|The MRT is public transport; we should keep it clean.
+106|I think so too, ___.
+107|How did he react?
+108|He immediately lowered his head and picked up the rubbish.
+109|immediately; right away
+110|immediately
+111|precious; valuable
+112|worth treasuring

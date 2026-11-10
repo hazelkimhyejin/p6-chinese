@@ -1,0 +1,108 @@
+1|To achieve his dream, he never backs down because of difficulties.
+2|to back down; to shrink back
+3|Xiaoming really treasures his time; whenever he is free he reads all kinds of books to enrich himself.
+4|to treasure; to value
+5|Grandpa listened carefully to me, with a ___ smile on his face.
+6|After constant practice, she finally became the most ___ chess player in the class.
+7|His prelim results were very poor this time, and Mum feels ___ about his PSLE.
+8|worried
+9|troublesome; to trouble
+10|to disturb
+11|hurriedly
+12|To ___ traffic accidents, drivers should drive carefully.
+13|to block; to stop someone
+14|to overcome
+15|to dodge; to escape
+16|to avoid; to prevent
+17|I heard some movement outside the door, so I got up to check.
+18|sound of movement; activity
+19|sound, noise
+20|news, situation
+21|adjustment, change
+22|influence, effect
+23|The scenery here is delightful, and nobody wants to leave.
+24|pleasant; delightful
+25|feels suitable
+26|makes people happy
+27|suits people's liking; pleasing
+28|makes people long for it
+29|___ you work a bit harder this time, maybe you will succeed.
+30|because; due to
+31|although
+32|if
+33|even if
+34|___ her hand was already injured, she ___ insisted on finishing the match.
+35|not only … but instead
+36|not … but rather
+37|because … so
+38|even though … still
+39|___, everyone was overjoyed.
+40|The teacher told everyone to be quiet
+41|The teacher announced that there would be a test tomorrow
+42|The principal announced a one-day holiday for the whole school
+43|The students played football on the field
+44|Since young he has loved standing up for the weak, ___.
+45|so he has always been bullied
+46|he often helps weaker classmates
+47|he always hits people at the slightest thing
+48|so he often loses his temper
+49|Which sentence is correct? (巧妙 – clever, ingenious)
+50|clever; ingenious (a smart method)
+51|Our family went to Universal Studios; it was really a clever trip.
+52|Xiao An was late; just as he tried to sneak into class, he cleverly met the discipline master.
+53|Xiaoli's hands are very clever; she can knit all kinds of cute dolls.
+54|He cleverly combined storytelling and rap, and won the competition.
+55|Which sentence is correct? (发扬 – to carry forward, to promote)
+56|to carry forward; to promote (a spirit or tradition)
+57|This video made him understand the importance of carrying forward the spirit of helping and caring for one another.
+58|The researchers carried forward a small shell they had never seen before at the beach.
+59|In this speech competition, he carried forward his ability and won.
+60|Kangkang carried forward that his brother did something bad, and ran to tell Mum.
+61|Which sentence is correct? (齐心协力 – to work together as one)
+62|to work together with one heart
+63|We worked together as one and played badminton in the sports hall.
+64|Xiaoli worked together as one to help Mum wash the dishes.
+65|He worked together as one to finish the homework the teacher gave.
+66|They worked together as one and finally finished setting up the stage.
+67|Wenhua started learning Chinese brush calligraphy at seven. At first it was very hard for him, because brush writing needs constant practice — you cannot be in a hurry, and you cannot be (16). Sometimes one word took several days of practice, and even then it might not be written well. Luckily, Mum kept encouraging him. With Mum's (17), his calligraphy got better and better.
+68|When he was ten, Wenhua took part in the school calligraphy competition and won second prize. He was very happy — he had (18) practised for three years and finally got results. Wenhua told Mum the news and said he wanted to hang his winning work in the living room, so that whenever he saw it he could (19) the joy of winning. But Mum said, "I don't want you to hang it up as your best work. You still need to practise hard and aim for even more progress." Wenhua understood what Mum meant.
+69|From then on, Wenhua practised calligraphy even more attentively and was even more (20) with himself. Now his writing is better than his prize-winning work.
+70|nervous
+71|lazy
+72|worried
+73|troubled; annoyed
+74|company; to accompany
+75|to control
+76|to manage
+77|plan
+78|tenacious; never giving up
+79|fulfilling; to enrich
+80|to continue
+81|hardworking; diligent
+82|to remember
+83|to recall; to look back on
+84|to imagine
+85|to appear (in the mind)
+86|strict
+87|hardworking; to try hard
+88|certain; to affirm
+89|correct
+90|the queue for fishball noodles is too long
+91|I borrowed a library book
+92|why don't you look in the classroom
+93|I didn't even see a trace of the book
+94|Mum helped me find that book
+95|or could it be in the classroom
+96|go and have a look at the lost-and-found
+97|should I go and admit my mistake to the teacher
+98|Xiaoli, why haven't you gone to buy your favourite fishball noodles?
+99|___, and today is the last day to return it!
+100|Really? I'll go with you to the library to return the book.
+101|But the book I borrowed is missing. Yesterday I searched every corner at home, ___.
+102|Did you put it in your school bag, ___?
+103|Lewen, of course I searched those places, but I still can't find it. What should I do? ___?
+104|Yes! I think it's better to go and admit your mistake first.
+105|willingly
+106|to be very willing in your heart
+107|finally; at last
+108|finally, in the end

@@ -1,0 +1,112 @@
+1|You Jin is a famous Singaporean writer.
+2|famous
+3|Every Chinese New Year, Chinatown is full of a strong festive atmosphere.
+4|atmosphere
+5|Grandma ___ (rented) a stall at the canteen to sell soya bean drinks.
+6|The ___ (sales) staff in the shop warmly introduced the products to customers.
+7|Exams are coming soon; the teacher ___ us to revise our work.
+8|to teach; to guide
+9|to order; to command
+10|to request
+11|to remind
+12|Hua Mulan fought the enemy bravely on the battlefield, ___ her country.
+13|to keep safe (items)
+14|to maintain; to keep
+15|to defend; to protect (a country)
+16|to guarantee
+17|I defeated all my opponents and won the championship.
+18|to defeat; to beat
+19|beat the opponents
+20|chased away the opponents
+21|pushed over the opponents
+22|attacked the opponents
+23|After hearing my brother's explanation, it suddenly dawned on me that I had wrongly blamed him.
+24|to suddenly understand; the penny drops
+25|suddenly woke up
+26|suddenly understood
+27|suddenly guessed correctly
+28|suddenly remembered
+29|___ whether it rains tomorrow, we ___ will go and visit Grandma.
+30|if … then
+31|no matter … will still
+32|besides … also
+33|even if … still
+34|___ we have time, ___ go and volunteer at the old folks' home.
+35|rather than … better to
+36|unless … otherwise
+37|even though … still
+38|anyway … might as well
+39|At first, I felt unfamiliar with my new school, ___.
+40|I always forgot to finish my homework
+41|later I slowly got used to it
+42|I got to know many new friends
+43|I was scolded by the teacher every now and then
+44|___, before he managed to move the piano upstairs.
+45|The movers did it without any effort at all
+46|The classmates wasted a lot of energy
+47|My younger sister and I spent quite a few days
+48|Dad used an enormous amount of effort
+49|Which sentence is correct? (表达 – to express)
+50|to express (feelings, ideas)
+51|Dad nodded to express agreement with everyone's view.
+52|The teacher expressed that he is a child who loves to help others.
+53|We had a very outstanding expression in the competition.
+54|I wrote a song to express my love for my country.
+55|Which sentence is correct? (津津有味 – with great enjoyment)
+56|with great interest and enjoyment
+57|After coming home from work, Mum prepared dinner with great enjoyment.
+58|Early in the morning, the school cleaner auntie cleaned the classroom with great enjoyment.
+59|In Chinese class, we listened to the teacher's story with great enjoyment.
+60|During the exam, the classmates answered every question with great enjoyment.
+61|Which sentence is correct? (贴心 – thoughtful, caring)
+62|thoughtful; caring
+63|When we have questions, the teacher always thoughtfully answers them for us.
+64|I need to be more thoughtful so I won't make careless mistakes like this.
+65|Seeing Grandpa shivering with cold, I thoughtfully put a coat over him.
+66|My younger sister thoughtfuls Mum and Dad and understands how hard they work.
+67|Xiaoyun's grandma is very good at growing flowers. Xiaoyun often squatted beside the flowerpots watching Grandma loosen the soil and water the plants, and found it very (16).
+68|One day, Grandma bought a packet of seeds to plant in the pots. Xiaoyun wanted to plant flowers too, so she asked Grandma for a seed and buried it in the soil. A week passed, and there was no (17) at all in the pot. Xiaoyun dug up the soil and saw that the seed had rotted. Grandma told her: "The seed was planted too deep. If it's buried where there's no air, it's hard for it to sprout, and it may even rot."
+69|After listening to Grandma, Xiaoyun decided to (18) once more. A few days later, she saw green shoots coming out of the soil. She couldn't help gently pushing the soil aside to help it grow faster. But once the sun shone on the seedling, it soon dried up. Grandma shook her head and said, "You're too impatient. A seed has to take root, sprout and push through the soil with its own strength — that's how it grows better."
+70|Hearing this, Xiaoyun (19) planted a third seed. This time, she watered it on time and waited slowly. A week later, a little shoot poked out of the soil. Although it was thin, it stood up straight and looked especially lively in the sunlight.
+71|Xiaoyun finally understood that doing anything is like growing flowers: you need the right method, you need to work hard, and you need to wait (20) before you see beautiful flowers bloom.
+72|fun; enjoyment (noun)
+73|interesting; fun (adjective)
+74|interest (in a hobby)
+75|witty; humorous (of a person)
+76|reaction
+77|sound
+78|influence
+79|movement; sign of activity
+80|to make
+81|to try
+82|to practise
+83|to persist
+84|hardworking; to try hard
+85|detailed
+86|carefully
+87|brave
+88|patiently
+89|focused
+90|attentive; careful with details
+91|warm-hearted
+92|this activity is very meaningful
+93|I also want to donate some old textbooks
+94|I love collecting pens of all colours
+95|my pencil case happens to need replacing
+96|if everyone is willing to give a bit of love
+97|I saw the activity notice on the school website yesterday
+98|I heard the school holds this activity every year
+99|I plan to donate some new stationery from home
+100|I hope the students who receive the stationery will treasure these gifts
+101|Did you see the school's notice about the "Big Hands Hold Little Hands" charity activity?
+102|Yes! ___.
+103|This activity is mainly to collect stationery for children in need.
+104|___, we should actively take part. How will you help them?
+105|___.
+106|That's a great idea. It doesn't waste resources and it helps others too.
+107|I really hope more students will join this activity.
+108|You're right, ___, then we can help more children in need.
+109|hardworking; diligent
+110|doing things seriously and working very hard
+111|to encourage
+112|making someone feel confident through words or actions

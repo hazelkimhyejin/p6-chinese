@@ -1,0 +1,114 @@
+1|My neighbour always sings in the middle of the night, disturbing my rest.
+2|to disturb
+3|No matter how hard my younger brother pulled, he still couldn't open the door.
+4|to use all your strength
+5|At the camp I tried ___ (archery), and found it very fun.
+6|Time is very precious; not a single minute or ___ (second) should be wasted.
+7|Seeing his grandson come home, Grandpa showed a ___ smile.
+8|perfectly happy (life, family)
+9|gentle
+10|harmonious
+11|kind and loving (of elderly people)
+12|His family's support is the ___ for him to chase his dream.
+13|effort; to try hard
+14|motivation; driving force
+15|to do one's best
+16|pressure
+17|My brother searched online for a long time before he found useful information.
+18|to search
+19|to collect materials
+20|to inspect items
+21|to look for carefully
+22|to discover information
+23|These traditional buildings have special designs and are already a hundred years old.
+24|traditional
+25|handed down from long ago
+26|might appear in the future
+27|spread from other places
+28|happened before
+29|So it turns out he was ___ playing computer games, ___ doing online homework.
+30|not only … but also
+31|although … but
+32|no matter … still
+33|not … but rather
+34|___ how busy Mum is with work, she ___ won't forget your birthday.
+35|besides … also
+36|even if … still
+37|only if … then
+38|if … then
+39|My elder brother is generous, ___.
+40|he will definitely greet the neighbours
+41|he often donates money to help poor people
+42|he doesn't give up when facing difficulties
+43|he hands in homework on time every time
+44|___, so someone needs to translate.
+45|Grandma speaks Malay very well
+46|I can't understand his language
+47|He is very good at two languages
+48|What the teacher teaches is very difficult
+49|Which sentence is correct? (必备 – must-have, essential)
+50|essential; must-have
+51|Taking medicine on time is must-have, so that the illness can get better.
+52|We must-have finish today, otherwise there won't be enough time tomorrow.
+53|All plants' growth must-have needs sunlight, water and air.
+54|These tools are very useful; they are must-haves when travelling.
+55|Which sentence is correct? (巧妙 – clever, ingenious)
+56|clever; ingenious (a smart method)
+57|Chopsticks are incredibly clever; they can even pick up tiny grains of rice.
+58|On my way to school I met Uncle Lin — the timing was so clever.
+59|He cleverly combined his group members' ideas and wrote a wonderful essay.
+60|Xiaoli and Xiaomei wore the same dress, and everyone thought it was very clever.
+61|Which sentence is correct? (掩耳盗铃 – to fool yourself)
+62|to cover your ears while stealing a bell — fooling yourself
+63|No matter how we asked, he covered his ears and stole the bell and wouldn't say anything.
+64|The fire alarm suddenly rang, and everyone covered their ears and stole the bell to leave the classroom quickly.
+65|He rushed onto the bus at bell-stealing speed, hoping not to be late.
+66|What you are doing is just covering your ears to steal a bell — don't fool yourself.
+67|In Singapore, thrown-away food makes up ten percent of all rubbish. To (16) waste, a group of volunteers goes to bakeries every Saturday to collect leftover bread and give it out to needy people. Lin Wenkang is one of these bread-"rescuing" volunteers.
+68|Lin Wenkang's (17) is to go to three bakeries on Saturday night to collect the unsold bread, and then deliver it to the assigned community club. The next morning, people in need can go to the community club to (18) the bread.
+69|When interviewed by a reporter, Lin Wenkang said: "When I was young, I often saw my parents buy things for neighbours who had nobody to rely on. Under their (19), I also hoped to help people in need when I grew up, and do my part for society."
+70|When the plan first started, Lin Wenkang faced many challenges. For example, some bakery owners would rather throw away leftover bread than donate it, because they worried it would be unfair to customers who paid for bread. But after he patiently explained, they were all happy to (20) the plan.
+71|Lin Wenkang said: "Our plan not only rescues bread that is about to be thrown away, but also brings warmth to people in need. We hope more people will pay attention to the problem of food waste."
+72|to weaken
+73|to lower
+74|to lighten (a burden, pain)
+75|to reduce
+76|task; duty
+77|activity
+78|purpose
+79|condition
+80|to accept
+81|to buy
+82|to collect (something given out)
+83|to exchange
+84|to instruct
+85|influence
+86|to suggest
+87|to manage
+88|to hold (an event)
+89|to support
+90|to be in charge of
+91|to arrange
+92|I had planned to go
+93|he must have waited for you for a long time
+94|he must have thought something happened to you
+95|Xiao An probably went straight home
+96|I don't know whether he will forgive me
+97|but I decided at the last minute to go and play football
+98|the most important thing between people is keeping your word
+99|friends should understand each other
+100|Ziqiang, why didn't you go home with Xiao An today?
+101|After school I called Xiao An, but he ignored me.
+102|What actually happened between you two?
+103|I arranged to go and buy books with him on Sunday afternoon, ___, so I didn't go.
+104|Then did you tell Xiao An beforehand?
+105|No.
+106|No wonder Xiao An is ignoring you! Xiao An always keeps his promises. You didn't tell him in advance, ___.
+107|Xiao An is being too petty. I can just go and buy books with him another day!
+108|It's wrong to think like that. ___; if you promise someone something, you should do it. If you really can't, you should tell them first.
+109|You're right, I really was wrong. When I get home, I'll call Xiao An to apologise, ___.
+110|As long as you sincerely apologise to Xiao An, I believe he will forgive you.
+111|to take the chance to; while
+112|to make use of time or an opportunity
+113|honest
+114|not lying and not cheating

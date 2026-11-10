@@ -1,6 +1,8 @@
 # 🐼 小六华文冲冲冲！ P6 Chinese Practice
 
-A colourful, game-style Streamlit app for Primary 6 Chinese practice with instant feedback.
+A colourful, game-style Streamlit app for Primary 6 Chinese practice with instant feedback —
+built for a child who is stronger in English: **every Chinese character has Hanyu Pinyin above it,
+and every question, option, passage and dialogue has an English translation.**
 Every question comes from the **2026 P6 Chinese Preliminary Examination (Paper 2)** of ten schools:
 ACS (Junior), Ai Tong, Catholic High, Henry Park, Methodist Girls', Nan Hua, Nanyang,
 Raffles Girls', Red Swastika and St. Nicholas Girls'.
@@ -18,8 +20,21 @@ Raffles Girls', Red Swastika and St. Nicholas Girls'.
 | ⚖️ 用词小法官 Correct usage | 30 |
 | 📖 短文填空 Passage cloze | 10 passages / 50 blanks |
 | 💬 完成对话 Complete the dialogue | 10 dialogues / 40 blanks |
-| 🃏 词语卡 Flashcards · 🎯 词义配对 Match meanings | 60 words |
+| 🃏 词语卡 Flashcards | 60 words |
+| 🌏 词语大考验 Word quiz (Chinese → English, English → Chinese) | ~230 words |
 | 🏫 整份试卷 Full paper by school · 🚀 Mixed challenge · 📕 Mistake book | — |
+
+## Three help levels
+
+| Level | What the child sees | XP |
+|---|---|---|
+| 🟢 学习 Learn | Pinyin on every character + English everywhere | ×1 |
+| 🟡 练习 Practice | Pinyin shown, English only when tapped | ×1.5 |
+| 🔴 考试 Exam | Chinese only, like the real paper (pinyin/English can be tapped, but then the bonus is lost) | ×2 |
+
+The sidebar keeps a separate **🧠 Chinese-only score** (Exam mode with no hints), so you can see how much
+Chinese your child really understands on their own. After every answer, the full sentence is shown with pinyin and English
+whatever the level, so each question is also a mini lesson.
 
 Fun bits: XP and levels, streak bonuses, badges, balloons, a panda coach, 🔊 read-aloud
 (browser speech), wrong answers go to the 错题本 automatically, and progress can be
@@ -42,7 +57,7 @@ streamlit run app.py
 
 ## Editing / adding questions
 
-The questions live in `tools/source/<School>.txt` (one line per question, human-readable)
+The questions live in `tools/source/<School>.txt`, English translations in `tools/source/en/<School>.txt` (one line per question, human-readable)
 and the answer keys in `tools/keys.txt`. After editing, rebuild the app data:
 
 ```bash
@@ -60,6 +75,10 @@ DOPT|对话选项1;选项2;...
 L|说话人|对话内容 {26}
 V|词语|意思
 ```
+
+English files are `N|English` lines in the order printed by `python tools/needed_en.py <School>`.
+Pinyin is generated automatically (`pinyin_util.py`, using `pypinyin`); fixes for tricky readings
+such as 地/得/都/还 are in `PHRASE_FIX` and the rules there.
 
 Types: `pinyin`, `hanzi`, `word`, `meaning`, `connector`, `sentence`, `usage`.
 
