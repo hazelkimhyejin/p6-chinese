@@ -1,0 +1,3889 @@
+{
+ "schools": [
+  {
+   "id": "ACS_Junior",
+   "zh": "英华小学",
+   "en": "ACS (Junior)"
+  },
+  {
+   "id": "Ai_Tong",
+   "zh": "爱同学校",
+   "en": "Ai Tong"
+  },
+  {
+   "id": "Catholic_High",
+   "zh": "公教中学（附小）",
+   "en": "Catholic High"
+  },
+  {
+   "id": "Henry_Park",
+   "zh": "亨利公园小学",
+   "en": "Henry Park"
+  },
+  {
+   "id": "Methodist_Girls",
+   "zh": "美以美女校",
+   "en": "Methodist Girls'"
+  },
+  {
+   "id": "Nan_Hua",
+   "zh": "南华小学",
+   "en": "Nan Hua"
+  },
+  {
+   "id": "Nanyang",
+   "zh": "南洋小学",
+   "en": "Nanyang"
+  },
+  {
+   "id": "Raffles_Girls",
+   "zh": "莱佛士女子小学",
+   "en": "Raffles Girls'"
+  },
+  {
+   "id": "Red_Swastika",
+   "zh": "卍慈学校",
+   "en": "Red Swastika"
+  },
+  {
+   "id": "St_Nicholas",
+   "zh": "圣尼各拉女校（小学部）",
+   "en": "St. Nicholas Girls'"
+  }
+ ],
+ "mcq": [
+  {
+   "id": "ACS_Junior-Q1",
+   "school": "ACS_Junior",
+   "n": 1,
+   "type": "pinyin",
+   "stem": "外婆【临时】决定今晚不出去吃饭了。",
+   "options": [
+    "lín shí",
+    "lín shǐ",
+    "líng shí",
+    "líng shǐ"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q2",
+   "school": "ACS_Junior",
+   "n": 2,
+   "type": "pinyin",
+   "stem": "爷爷会给我们讲故事，也会跟我们分享生活【经验】。",
+   "options": [
+    "qīng yán",
+    "qīng yàn",
+    "jīng yán",
+    "jīng yàn"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q3",
+   "school": "ACS_Junior",
+   "n": 3,
+   "type": "hanzi",
+   "stem": "华语讲故事比赛的报名___止日期是这个星期五。",
+   "options": [
+    "截",
+    "载",
+    "戴",
+    "栽"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q4",
+   "school": "ACS_Junior",
+   "n": 4,
+   "type": "hanzi",
+   "stem": "我们应该珍___时间，不要浪费。",
+   "options": [
+    "系",
+    "席",
+    "惜",
+    "悉"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q5",
+   "school": "ACS_Junior",
+   "n": 5,
+   "type": "word",
+   "stem": "外公每天清晨都会到附近的公园___身体。",
+   "options": [
+    "锻炼",
+    "修理",
+    "照顾",
+    "保护"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q6",
+   "school": "ACS_Junior",
+   "n": 6,
+   "type": "word",
+   "stem": "老师常常___我们要做一个诚实的人，不要说谎。",
+   "options": [
+    "训练",
+    "教育",
+    "培养",
+    "介绍"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q7",
+   "school": "ACS_Junior",
+   "n": 7,
+   "type": "meaning",
+   "stem": "妈妈听到这个好消息，【激动】得流下眼泪。",
+   "options": [
+    "感到兴奋",
+    "感到奇怪",
+    "觉得着急",
+    "觉得难过"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q8",
+   "school": "ACS_Junior",
+   "n": 8,
+   "type": "meaning",
+   "stem": "林伯伯【灵机一动】，解决了这个问题。",
+   "options": [
+    "很喜欢自作聪明",
+    "心里早有了主意",
+    "突然想出好方法",
+    "冷静面对新挑战"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q9",
+   "school": "ACS_Junior",
+   "n": 9,
+   "type": "connector",
+   "stem": "___这次你取得了好成绩，也要继续努力。",
+   "options": [
+    "只要",
+    "虽然",
+    "不仅",
+    "就算"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q10",
+   "school": "ACS_Junior",
+   "n": 10,
+   "type": "connector",
+   "stem": "___周末的天气不好，我们___不去海边野餐了。",
+   "options": [
+    "只有……才",
+    "除了……还",
+    "要是……就",
+    "不管……都"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q11",
+   "school": "ACS_Junior",
+   "n": 11,
+   "type": "sentence",
+   "stem": "___，靠的是大家的齐心协力。",
+   "options": [
+    "对方选手表现不佳",
+    "钢琴独奏十分精彩",
+    "游戏规则需要更换",
+    "我们班能赢得比赛"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q12",
+   "school": "ACS_Junior",
+   "n": 12,
+   "type": "sentence",
+   "stem": "老师宣布明天去参观动物园，___。",
+   "options": [
+    "同学们都观看了动物表演",
+    "同学们便依依不舍地离开",
+    "同学们都开心地欢呼起来",
+    "同学们兴高采烈地出发了"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q13",
+   "school": "ACS_Junior",
+   "n": 13,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（吩咐）",
+   "options": [
+    "由于小杰吩咐得很好，所以老师奖励了他。",
+    "听了老师的吩咐，我终于明白了这个词语。",
+    "出门之前，爸爸吩咐我要记得把大门关好。",
+    "我吩咐妈妈，明天一定要带我去游乐场玩。"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q14",
+   "school": "ACS_Junior",
+   "n": 14,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（贡献）",
+   "options": [
+    "那本书内容非常精彩，里面有许多好的贡献。",
+    "志明经常帮助邻居，为社区作出了许多贡献。",
+    "老师改作业一直到半夜，贡献了休息的时间。",
+    "组屋区有很多熟食中心，为居民贡献了便利。"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "ACS_Junior-Q15",
+   "school": "ACS_Junior",
+   "n": 15,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（坚固）",
+   "options": [
+    "那座城墙非常坚固，敌人都无法攻打进来。",
+    "志明是个坚固的孩子，从来不听别人的话。",
+    "我们遇到困难不能退缩，一定要坚固到底。",
+    "石缝里的小花不怕风吹雨打，坚固地活着。"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q1",
+   "school": "Ai_Tong",
+   "n": 1,
+   "type": "pinyin",
+   "stem": "为了实现自己的梦想，他从不因为困难而【退缩】。",
+   "options": [
+    "tuī suō",
+    "tuǐ suò",
+    "tuì suō",
+    "tuì suò"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q2",
+   "school": "Ai_Tong",
+   "n": 2,
+   "type": "pinyin",
+   "stem": "小明非常【珍惜】时间，一有空就阅读各种课外书，充实自己。",
+   "options": [
+    "zhēn xī",
+    "zhèn xí",
+    "zhēng xī",
+    "zhèng xí"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q3",
+   "school": "Ai_Tong",
+   "n": 3,
+   "type": "hanzi",
+   "stem": "外公认真地听我说话，脸上带着慈___的笑容。",
+   "options": [
+    "洋（海洋）",
+    "祥",
+    "详（详细）",
+    "样（模样）"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q4",
+   "school": "Ai_Tong",
+   "n": 4,
+   "type": "hanzi",
+   "stem": "经过不断练习，她终于成为班上最___害的象棋高手。",
+   "options": [
+    "力（努力）",
+    "厉",
+    "历（历史）",
+    "励（鼓励）"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q5",
+   "school": "Ai_Tong",
+   "n": 5,
+   "type": "word",
+   "stem": "他这次预考成绩很不好，妈妈为他的小六会考感到___。",
+   "options": [
+    "担忧",
+    "麻烦",
+    "打扰",
+    "急忙"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q6",
+   "school": "Ai_Tong",
+   "n": 6,
+   "type": "word",
+   "stem": "为了___发生交通意外，司机应该小心开车。",
+   "options": [
+    "阻拦",
+    "克服",
+    "躲过",
+    "避免"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q7",
+   "school": "Ai_Tong",
+   "n": 7,
+   "type": "meaning",
+   "stem": "我听到门外有【动静】，于是起身去查看。",
+   "options": [
+    "声音、响动",
+    "消息、情况",
+    "调整、变化",
+    "影响、作用"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q8",
+   "school": "Ai_Tong",
+   "n": 8,
+   "type": "meaning",
+   "stem": "这里的风景【宜人】，大家都舍不得离开。",
+   "options": [
+    "感觉合适",
+    "让人开心",
+    "合人心意",
+    "令人向往"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q9",
+   "school": "Ai_Tong",
+   "n": 9,
+   "type": "connector",
+   "stem": "___你这次更努力一些，也许就会成功。",
+   "options": [
+    "由于",
+    "虽然",
+    "要是",
+    "即使"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q10",
+   "school": "Ai_Tong",
+   "n": 10,
+   "type": "connector",
+   "stem": "___她的手已经受伤，她___坚持打完比赛。",
+   "options": [
+    "不但……反而",
+    "不是……而是",
+    "因为……所以",
+    "尽管……还是"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q11",
+   "school": "Ai_Tong",
+   "n": 11,
+   "type": "sentence",
+   "stem": "___，大家都喜出望外。",
+   "options": [
+    "老师叫大家安静下来",
+    "老师宣布明天有测验",
+    "校长宣布全校放假一天",
+    "同学们在操场上踢足球"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q12",
+   "school": "Ai_Tong",
+   "n": 12,
+   "type": "sentence",
+   "stem": "他从小爱打抱不平，___。",
+   "options": [
+    "因此一直被人欺负",
+    "常常帮助弱小同学",
+    "总是动不动就打人",
+    "所以时常乱发脾气"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q13",
+   "school": "Ai_Tong",
+   "n": 13,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（巧妙）",
+   "options": [
+    "我们一家人去环球影城玩，这真是一段巧妙的旅程。",
+    "小安迟到了，他正想溜进课室，巧妙遇到训导主任。",
+    "小丽的双手非常巧妙，能够编织各种可爱的布娃娃。",
+    "他巧妙地把讲故事和说唱结合起来，得了比赛冠军。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q14",
+   "school": "Ai_Tong",
+   "n": 14,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（发扬）",
+   "options": [
+    "这段录像让他明白了发扬互助友爱精神的重要。",
+    "研究人员在海边发扬了一种从没见过的小贝壳。",
+    "这次演讲比赛中，他发扬了实力，赢得了胜利。",
+    "康康发扬弟弟做了坏事，便马上跑去告诉妈妈。"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Ai_Tong-Q15",
+   "school": "Ai_Tong",
+   "n": 15,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（齐心协力）",
+   "options": [
+    "我们齐心协力，在体育馆里打羽毛球。",
+    "小丽齐心协力地帮妈妈把碗碟洗干净。",
+    "他齐心协力地完成了老师布置的作业。",
+    "他们齐心协力，终于把舞台布置好了。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q1",
+   "school": "Catholic_High",
+   "n": 1,
+   "type": "pinyin",
+   "stem": "我的手机没电了，【暂时】不能用。",
+   "options": [
+    "zàn sí",
+    "zàn shí",
+    "zhàn sí",
+    "zhàn shí"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q2",
+   "school": "Catholic_High",
+   "n": 2,
+   "type": "pinyin",
+   "stem": "这个地方的景色迷人，给我留下深刻的【印象】。",
+   "options": [
+    "yìn xiàn",
+    "yìn xiàng",
+    "yìng xiàn",
+    "yìng xiàng"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q3",
+   "school": "Catholic_High",
+   "n": 3,
+   "type": "hanzi",
+   "stem": "父母最想要的始终是子女的关心与___伴。",
+   "options": [
+    "培（培养）",
+    "倍",
+    "赔",
+    "陪"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q4",
+   "school": "Catholic_High",
+   "n": 4,
+   "type": "hanzi",
+   "stem": "狗是人类最忠___的朋友。",
+   "options": [
+    "呈",
+    "承（承认）",
+    "乘（乘坐巴士）",
+    "诚"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q5",
+   "school": "Catholic_High",
+   "n": 5,
+   "type": "word",
+   "stem": "爸爸点点头，___同意让我和朋友去打篮球。",
+   "options": [
+    "解释",
+    "表示",
+    "取得好成绩",
+    "认为"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q6",
+   "school": "Catholic_High",
+   "n": 6,
+   "type": "word",
+   "stem": "爸爸妈妈的爱让我感到___的温暖。",
+   "options": [
+    "完全",
+    "充实",
+    "无限",
+    "丰盛"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q7",
+   "school": "Catholic_High",
+   "n": 7,
+   "type": "meaning",
+   "stem": "大明的成绩很好，而且乐于助人，是大家的【榜样】。",
+   "options": [
+    "使人变得完全相同",
+    "使人想要一起合作",
+    "值得报告的好事情",
+    "值得学习的人或事"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q8",
+   "school": "Catholic_High",
+   "n": 8,
+   "type": "meaning",
+   "stem": "这些照片让我【回忆】起有趣的童年往事。",
+   "options": [
+    "忘记以前的事",
+    "想起过去的事",
+    "等待将来的事",
+    "做着现在的事"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q9",
+   "school": "Catholic_High",
+   "n": 9,
+   "type": "connector",
+   "stem": "___你不肯帮我，我___告诉妈妈。",
+   "options": [
+    "如果……就",
+    "尽管……还",
+    "只有……才",
+    "除了……也"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q10",
+   "school": "Catholic_High",
+   "n": 10,
+   "type": "connector",
+   "stem": "___外面下着雨，___弟弟坚持要去外面玩。",
+   "options": [
+    "因为……所以",
+    "即使……也要",
+    "由于……因此",
+    "虽然……但是"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q11",
+   "school": "Catholic_High",
+   "n": 11,
+   "type": "sentence",
+   "stem": "___，打扰了正在准备考试的姐姐。",
+   "options": [
+    "今天下了一整天的雨",
+    "爸爸已经放工回家了",
+    "妹妹不会做她的作业",
+    "弟弟在房里大声唱歌"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q12",
+   "school": "Catholic_High",
+   "n": 12,
+   "type": "sentence",
+   "stem": "妹妹表演的方式很有创意，___。",
+   "options": [
+    "赢得观众热烈的掌声",
+    "大家都觉得太普通了",
+    "台下观众都感到很闷",
+    "参赛者都觉得很开心"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q13",
+   "school": "Catholic_High",
+   "n": 13,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（考虑）",
+   "options": [
+    "妈妈问我有没有考虑过将来想做什么工作。",
+    "老师要求我们一起考虑刚才做错了什么事情。",
+    "他站在镜子前，细心考虑今天要穿的衣服。",
+    "这个题目太难了，姐姐需要时间好好考虑。"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q14",
+   "school": "Catholic_High",
+   "n": 14,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（毕业）",
+   "options": [
+    "上了一整天的课，哥哥才从补习班毕业了。",
+    "爸爸在这家公司工作了三年后，决定毕业。",
+    "大学毕业以后，小美就决定到国外去工作。",
+    "五年级终于毕业了，明年我是六年级学生。"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Catholic_High-Q15",
+   "school": "Catholic_High",
+   "n": 15,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（嘲笑）",
+   "options": [
+    "看着可爱的孙子，奶奶脸上露出慈祥的嘲笑。",
+    "小明在考试中得了第一名，大家纷纷嘲笑他。",
+    "听到孩子们的嘲笑，老师们都觉得非常开心。",
+    "他一直嘲笑我唱歌难听，班长决定告诉老师。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q1",
+   "school": "Henry_Park",
+   "n": 1,
+   "type": "pinyin",
+   "stem": "大家对他助人为乐的行为连声【称赞】。",
+   "options": [
+    "chēn zān",
+    "chēn zàn",
+    "chēng zàn",
+    "chēng zān"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q2",
+   "school": "Henry_Park",
+   "n": 2,
+   "type": "pinyin",
+   "stem": "我们不应该【妒忌】别人的才能。",
+   "options": [
+    "dù jì",
+    "dù jí",
+    "tù jí",
+    "tù jì"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q3",
+   "school": "Henry_Park",
+   "n": 3,
+   "type": "hanzi",
+   "stem": "马上要___业了，同学们都舍不得和朋友分开。",
+   "options": [
+    "闭",
+    "币",
+    "必",
+    "毕"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q4",
+   "school": "Henry_Park",
+   "n": 4,
+   "type": "hanzi",
+   "stem": "这本新书在上个月出___了。",
+   "options": [
+    "版",
+    "贩",
+    "板",
+    "饭"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q5",
+   "school": "Henry_Park",
+   "n": 5,
+   "type": "word",
+   "stem": "他画的小猫很___，就像要从画纸跳出来一样。",
+   "options": [
+    "整齐",
+    "生动",
+    "巧妙",
+    "清楚"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q6",
+   "school": "Henry_Park",
+   "n": 6,
+   "type": "word",
+   "stem": "食物都需要经过___，才能安全食用。",
+   "options": [
+    "检验",
+    "搅拌",
+    "保温",
+    "调味"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q7",
+   "school": "Henry_Park",
+   "n": 7,
+   "type": "meaning",
+   "stem": "一到过年，购物中心就会举办各种【促销】活动。",
+   "options": [
+    "售卖多种商品",
+    "推动商品销售",
+    "延长售卖时间",
+    "增加销售人员"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q8",
+   "school": "Henry_Park",
+   "n": 8,
+   "type": "meaning",
+   "stem": "如果你想成为读书会的会员，要先填写【申请】表格。",
+   "options": [
+    "上网报名",
+    "提出请求",
+    "找人查问",
+    "报告老师"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q9",
+   "school": "Henry_Park",
+   "n": 9,
+   "type": "connector",
+   "stem": "他不努力还想发财，___在做白日梦。",
+   "options": [
+    "大约",
+    "明明",
+    "简直",
+    "竟然"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q10",
+   "school": "Henry_Park",
+   "n": 10,
+   "type": "connector",
+   "stem": "他上课不专心，___在睡觉，___在讲话。",
+   "options": [
+    "首先……然后",
+    "即使……也要",
+    "一边……一边",
+    "不是……就是"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q11",
+   "school": "Henry_Park",
+   "n": 11,
+   "type": "sentence",
+   "stem": "我们原本要去野餐，___。",
+   "options": [
+    "幸好公园景色宜人",
+    "可是下雨不能去了",
+    "全家人都开心极了",
+    "因为星期天不上学"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q12",
+   "school": "Henry_Park",
+   "n": 12,
+   "type": "sentence",
+   "stem": "___，看是否能想出办法。",
+   "options": [
+    "只要大家一起努力",
+    "我们可以一起开会",
+    "如果每个人都思考",
+    "他们终于做出决定"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q13",
+   "school": "Henry_Park",
+   "n": 13,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（促进）",
+   "options": [
+    "良好的生活习惯可以促进身体健康。",
+    "妈妈每天早上都要促进我快点上学。",
+    "这间商店正举办一年一度的大促进。",
+    "小林这学期的成绩有了明显的促进。"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q14",
+   "school": "Henry_Park",
+   "n": 14,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（独特）",
+   "options": [
+    "明文总是喜欢独特地完成作业。",
+    "汉字书法是一门很独特的艺术。",
+    "今天早上，她独特准备了早餐。",
+    "弟弟非常独特，可以自己煮饭。"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Henry_Park-Q15",
+   "school": "Henry_Park",
+   "n": 15,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（热心）",
+   "options": [
+    "周末，奶奶非常热心地招呼客人吃饭。",
+    "运动会上，同学热心地为运动员加油。",
+    "一有空，妈妈就会热心地教弟弟写字。",
+    "有需要帮助的事，他都会热心地帮忙。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q1",
+   "school": "Methodist_Girls",
+   "n": 1,
+   "type": "pinyin",
+   "stem": "邻居总是在半夜唱歌，【打扰】我休息。",
+   "options": [
+    "dá rǎo",
+    "dá lǎo",
+    "dǎ rǎo",
+    "dǎ lǎo"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q2",
+   "school": "Methodist_Girls",
+   "n": 2,
+   "type": "pinyin",
+   "stem": "无论弟弟怎么【使劲】地拉，还是无法把门打开。",
+   "options": [
+    "shí jìn",
+    "shǐ jìn",
+    "shí jìng",
+    "shǐ jìng"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q3",
+   "school": "Methodist_Girls",
+   "n": 3,
+   "type": "hanzi",
+   "stem": "我在营地活动中体验了射___，觉得很有趣。",
+   "options": [
+    "剑",
+    "建",
+    "箭",
+    "渐"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q4",
+   "school": "Methodist_Girls",
+   "n": 4,
+   "type": "hanzi",
+   "stem": "时间非常宝贵，每分每___都不能随意浪费。",
+   "options": [
+    "炒",
+    "秒",
+    "妙",
+    "抄"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q5",
+   "school": "Methodist_Girls",
+   "n": 5,
+   "type": "word",
+   "stem": "看见孙子回来了，爷爷露出___的笑容。",
+   "options": [
+    "美满",
+    "温柔",
+    "和谐",
+    "慈祥"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q6",
+   "school": "Methodist_Girls",
+   "n": 6,
+   "type": "word",
+   "stem": "家人的支持是他追求梦想的___。",
+   "options": [
+    "努力",
+    "动力",
+    "尽力",
+    "压力"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q7",
+   "school": "Methodist_Girls",
+   "n": 7,
+   "type": "meaning",
+   "stem": "哥哥在网上【搜索】了很久，才找到有用的资料。",
+   "options": [
+    "收集材料",
+    "检查物品",
+    "仔细寻找",
+    "发现信息"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q8",
+   "school": "Methodist_Girls",
+   "n": 8,
+   "type": "meaning",
+   "stem": "这些【传统】建筑的设计特别，已经有百年的历史了。",
+   "options": [
+    "很久以前留下来的",
+    "未来可能会出现的",
+    "别的地方传出来的",
+    "以前曾经发生过的"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q9",
+   "school": "Methodist_Girls",
+   "n": 9,
+   "type": "connector",
+   "stem": "原来他___在玩电脑游戏，___在做网上功课。",
+   "options": [
+    "不但……而且",
+    "虽然……但是",
+    "不管……还是",
+    "不是……而是"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q10",
+   "school": "Methodist_Girls",
+   "n": 10,
+   "type": "connector",
+   "stem": "___妈妈工作再忙，___不会忘记你的生日。",
+   "options": [
+    "除了……还",
+    "就算……也",
+    "只有……才",
+    "要是……就"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q11",
+   "school": "Methodist_Girls",
+   "n": 11,
+   "type": "sentence",
+   "stem": "哥哥为人慷慨，___。",
+   "options": [
+    "一定跟邻居打招呼",
+    "经常捐钱帮助穷人",
+    "遇到困难时不放弃",
+    "每次都准时交功课"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q12",
+   "school": "Methodist_Girls",
+   "n": 12,
+   "type": "sentence",
+   "stem": "___，需要有人翻译。",
+   "options": [
+    "奶奶很会说马来语",
+    "我听不懂他的语言",
+    "他的双语能力很强",
+    "老师教的内容很难"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q13",
+   "school": "Methodist_Girls",
+   "n": 13,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（必备）",
+   "options": [
+    "按时吃药是必备的，这样病情才能够好转。",
+    "我们今天必备完成，不然明天就来不及了。",
+    "所有植物的生长必备要有阳光、水和空气。",
+    "这些工具都很实用，是出门旅行时必备的。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q14",
+   "school": "Methodist_Girls",
+   "n": 14,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（巧妙）",
+   "options": [
+    "筷子真是巧妙无比，连小小的米粒都可以夹起来。",
+    "我在上学途中遇到了林叔叔，时间真是太巧妙了。",
+    "他巧妙地把组员的想法结合起来，写出精彩的文章。",
+    "小丽和小美穿了同样的裙子，大家都认为这很巧妙。"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Methodist_Girls-Q15",
+   "school": "Methodist_Girls",
+   "n": 15,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（掩耳盗铃）",
+   "options": [
+    "不管我们怎么问，他都掩耳盗铃什么都不肯说。",
+    "火警突然响了，大家都掩耳盗铃赶快离开课室。",
+    "他以掩耳盗铃的速度冲上巴士，希望不会迟到。",
+    "你这么做只是掩耳盗铃，不要自己欺骗自己了。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q1",
+   "school": "Nan_Hua",
+   "n": 1,
+   "type": "pinyin",
+   "stem": "我家楼下有一家店是【出租】漫画书的。",
+   "options": [
+    "cū zǔ",
+    "cū zhū",
+    "chū zū",
+    "chū zhǔ"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q2",
+   "school": "Nan_Hua",
+   "n": 2,
+   "type": "pinyin",
+   "stem": "爸爸下班时遇到交通【堵塞】，很晚才回到家。",
+   "options": [
+    "dǔ sè",
+    "dǔ sāi",
+    "zǔ sè",
+    "zǔ sāi"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q3",
+   "school": "Nan_Hua",
+   "n": 3,
+   "type": "hanzi",
+   "stem": "下雨了，妹妹___起了一把小伞。",
+   "options": [
+    "称",
+    "撑",
+    "乘",
+    "诚"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q4",
+   "school": "Nan_Hua",
+   "n": 4,
+   "type": "hanzi",
+   "stem": "表演结束时，礼堂里响起了热___的掌声。",
+   "options": [
+    "烈",
+    "列",
+    "例",
+    "裂"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q5",
+   "school": "Nan_Hua",
+   "n": 5,
+   "type": "word",
+   "stem": "我对妈妈摇了摇头，___不想再吃东西了。",
+   "options": [
+    "告诉",
+    "宣布",
+    "表示",
+    "讲述"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q6",
+   "school": "Nan_Hua",
+   "n": 6,
+   "type": "word",
+   "stem": "看到桌上的奖杯，往事又在我的脑海里___。",
+   "options": [
+    "浮现",
+    "回忆",
+    "露出",
+    "显示"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q7",
+   "school": "Nan_Hua",
+   "n": 7,
+   "type": "meaning",
+   "stem": "这件事很重要，我们必须【考虑】清楚。",
+   "options": [
+    "了解详细情况",
+    "仔细地想一想",
+    "做出最后决定",
+    "顺利完成任务"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q8",
+   "school": "Nan_Hua",
+   "n": 8,
+   "type": "meaning",
+   "stem": "老师给的作业太多了，同学们纷纷【抱怨】。",
+   "options": [
+    "一直吵个不停",
+    "不客气地说出",
+    "说出心中不满",
+    "围在一起讨论"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q9",
+   "school": "Nan_Hua",
+   "n": 9,
+   "type": "connector",
+   "stem": "___老板吩咐的工作，哥哥就会马上去做。",
+   "options": [
+    "只要",
+    "凡是",
+    "由于",
+    "如果"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q10",
+   "school": "Nan_Hua",
+   "n": 10,
+   "type": "connector",
+   "stem": "___想了很多办法，大家___无法帮他改掉坏习惯。",
+   "options": [
+    "不但……而且",
+    "不管……仍然",
+    "因为……所以",
+    "尽管……还是"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q11",
+   "school": "Nan_Hua",
+   "n": 11,
+   "type": "sentence",
+   "stem": "___，我们一家人都为他感到骄傲。",
+   "options": [
+    "如果弟弟真的做错了",
+    "如果弟弟明天去公园",
+    "弟弟捡到了一个钱包",
+    "弟弟在比赛中得了奖"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q12",
+   "school": "Nan_Hua",
+   "n": 12,
+   "type": "sentence",
+   "stem": "自从参加了学校的环保活动后，___。",
+   "options": [
+    "姐姐每天都会买新衣服",
+    "哥哥每天都会读华文书",
+    "弟弟每次都会随手关灯",
+    "妹妹每次都会多做运动"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q13",
+   "school": "Nan_Hua",
+   "n": 13,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（促进）",
+   "options": [
+    "家人一起吃晚餐，可以促进家庭和谐。",
+    "老师常常提醒我们多读书，促进知识。",
+    "读了作文后，老师指出了需要促进的地方。",
+    "小明借故事书给同学看，促进他们的友谊。"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q14",
+   "school": "Nan_Hua",
+   "n": 14,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（五彩缤纷）",
+   "options": [
+    "姐姐的歌声五彩缤纷，大家都听得十分入迷。",
+    "妈妈做的红烧肉五彩缤纷，让人看了就想吃。",
+    "毕业典礼那天，礼堂挂满了五彩缤纷的气球。",
+    "听到这个消息后，小文的心情变得五彩缤纷。"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Nan_Hua-Q15",
+   "school": "Nan_Hua",
+   "n": 15,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（半途而废）",
+   "options": [
+    "电影真没意思，我看了一会儿半途而废。",
+    "妈妈常常教育我，做事不可以半途而废。",
+    "小明吃饭半途而废，就和朋友下楼踢球。",
+    "这支笔真是半途而废，写到一半就断了。"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q1",
+   "school": "Nanyang",
+   "n": 1,
+   "type": "pinyin",
+   "stem": "在这个团队中，我们【彼此】学习，共同进步。",
+   "options": [
+    "bǐ cǐ",
+    "pí cǐ",
+    "bǐ chǐ",
+    "pí chǐ"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q2",
+   "school": "Nanyang",
+   "n": 2,
+   "type": "pinyin",
+   "stem": "小明知道他错了后，立刻【诚恳】地道歉。",
+   "options": [
+    "chén kěn",
+    "chén gěn",
+    "chéng kěn",
+    "chéng gěn"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q3",
+   "school": "Nanyang",
+   "n": 3,
+   "type": "hanzi",
+   "stem": "红头巾们为社会的发展___献自己的力量。",
+   "options": [
+    "供",
+    "贡",
+    "功",
+    "宫"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q4",
+   "school": "Nanyang",
+   "n": 4,
+   "type": "hanzi",
+   "stem": "佳佳小心地___起地上那只受伤的小鸟，把它放回鸟窝中。",
+   "options": [
+    "扶",
+    "托",
+    "拖",
+    "投"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q5",
+   "school": "Nanyang",
+   "n": 5,
+   "type": "word",
+   "stem": "这张实木桌子很___，用了十年还是完好如初。",
+   "options": [
+    "坚持",
+    "坚固",
+    "坚强",
+    "坚定"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q6",
+   "school": "Nanyang",
+   "n": 6,
+   "type": "word",
+   "stem": "战场上，所有的战士都顽强地与敌人___。",
+   "options": [
+    "克服",
+    "对抗",
+    "攻打",
+    "挣扎"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q7",
+   "school": "Nanyang",
+   "n": 7,
+   "type": "meaning",
+   "stem": "医生说如果吃太多糖会【损害】牙齿。",
+   "options": [
+    "使物品的外表变得十分难看",
+    "使物品的总共数量突然变少",
+    "使物品受到各种巨大的压力",
+    "使物品残破失去原来的功效"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q8",
+   "school": "Nanyang",
+   "n": 8,
+   "type": "meaning",
+   "stem": "出门前，妈妈再三【吩咐】我要带雨伞。",
+   "options": [
+    "用言语指派或命令",
+    "把解释或道理讲出来",
+    "劝别人对某事表示同意",
+    "提出自己的意见或者想法"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q9",
+   "school": "Nanyang",
+   "n": 9,
+   "type": "connector",
+   "stem": "___前面的路很难走，你___要勇往直前。",
+   "options": [
+    "凡是……都",
+    "即使……也",
+    "只有……才",
+    "无论……都"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q10",
+   "school": "Nanyang",
+   "n": 10,
+   "type": "connector",
+   "stem": "___明天是公共假日，___今晚我们多聊一会吧。",
+   "options": [
+    "尽管……还是",
+    "不仅……而且",
+    "反正……不如",
+    "除非……不然"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q11",
+   "school": "Nanyang",
+   "n": 11,
+   "type": "sentence",
+   "stem": "弟弟津津有味地看着故事书，___。",
+   "options": [
+    "大家都很想教训他一顿",
+    "妈妈喊他吃饭都没听见",
+    "常常使家人感到难为情",
+    "不一会儿就做完作业了"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q12",
+   "school": "Nanyang",
+   "n": 12,
+   "type": "sentence",
+   "stem": "___，我们总算解决了这个难题。",
+   "options": [
+    "由于大家都想明天再试",
+    "如果大家都能齐心协力",
+    "自从所有人都在想办法",
+    "在所有人的努力付出下"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q13",
+   "school": "Nanyang",
+   "n": 13,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（争夺）",
+   "options": [
+    "由于对这件事的意见不同，小恩和小明发生了争夺。",
+    "通过刻苦的训练，明华终于在国际舞台上为国争夺。",
+    "为了争夺更多的准备时间，他把游戏活动都取消了。",
+    "为了争夺冠军，两支球队在球场上展开激烈的对抗。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q14",
+   "school": "Nanyang",
+   "n": 14,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（困难）",
+   "options": [
+    "那个假期的美好时光，至今让明美十分困难。",
+    "听到这个不幸的消息，小乐心里感到很困难。",
+    "她努力克服种种困难，终于完成了大学学业。",
+    "这事让安安很困难，她不知道如何处理才好。"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Nanyang-Q15",
+   "school": "Nanyang",
+   "n": 15,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（妒忌）",
+   "options": [
+    "看到小明登上领奖台，大家妒忌得鼓起了掌。",
+    "哥哥主动承认了错误，因此妈妈不再妒忌他。",
+    "我妒忌她的成功，希望自己能像她一样优秀。",
+    "伟明妒忌佳佳比他更受欢迎，心里十分不满。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q1",
+   "school": "Raffles_Girls",
+   "n": 1,
+   "type": "pinyin",
+   "stem": "表哥在大学时，上了很多【翻译】课程。",
+   "options": [
+    "fān yì",
+    "fán yí",
+    "fǎng yì",
+    "fàng yí"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q2",
+   "school": "Raffles_Girls",
+   "n": 2,
+   "type": "pinyin",
+   "stem": "上中学的丽丽下课后去做服务员，帮忙【赚钱】养家。",
+   "options": [
+    "zuān qiǎn",
+    "zuàn qiǎn",
+    "zhuān qián",
+    "zhuàn qián"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q3",
+   "school": "Raffles_Girls",
+   "n": 3,
+   "type": "hanzi",
+   "stem": "上个星期五，我们全家一起参加了姐姐的___业典礼。",
+   "options": [
+    "毕",
+    "闭",
+    "币",
+    "必"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q4",
+   "school": "Raffles_Girls",
+   "n": 4,
+   "type": "hanzi",
+   "stem": "这所新加坡北部的体育学校，___养了很多人才。",
+   "options": [
+    "赔",
+    "陪",
+    "培",
+    "倍"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q5",
+   "school": "Raffles_Girls",
+   "n": 5,
+   "type": "word",
+   "stem": "这份小组作业的___方式不限，可以画画也可以表演。",
+   "options": [
+    "展览",
+    "说明",
+    "表示",
+    "呈现"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q6",
+   "school": "Raffles_Girls",
+   "n": 6,
+   "type": "word",
+   "stem": "由于明天有考试，国强还在___是否出席今晚的聚会。",
+   "options": [
+    "回想",
+    "考虑",
+    "比较",
+    "盼望"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q7",
+   "school": "Raffles_Girls",
+   "n": 7,
+   "type": "meaning",
+   "stem": "警察在森林里【搜索】了几个小时，终于救出了迷路的人。",
+   "options": [
+    "认真观看",
+    "仔细寻找",
+    "详细检查",
+    "小心安排"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q8",
+   "school": "Raffles_Girls",
+   "n": 8,
+   "type": "meaning",
+   "stem": "这件衣服看起来【普通】，可是穿起来很舒服。",
+   "options": [
+    "不值钱",
+    "不杰出",
+    "不美丽",
+    "不特别"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q9",
+   "school": "Raffles_Girls",
+   "n": 9,
+   "type": "connector",
+   "stem": "___你是组长，___也应该问一问组员的想法。",
+   "options": [
+    "只要……就能",
+    "反正……不如",
+    "虽然……但是",
+    "不但……反而"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q10",
+   "school": "Raffles_Girls",
+   "n": 10,
+   "type": "connector",
+   "stem": "___心情不好，姐姐___不会乱发脾气。",
+   "options": [
+    "除了……还",
+    "就算……也",
+    "如果……就",
+    "尽管……还"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q11",
+   "school": "Raffles_Girls",
+   "n": 11,
+   "type": "sentence",
+   "stem": "___，妈妈催我赶快去机场。",
+   "options": [
+    "飞机还有两个小时就起飞了",
+    "现在离出发的时间还早着呢",
+    "我向叔叔学如何上网订机票",
+    "我昨天早上已经抵达了终点"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q12",
+   "school": "Raffles_Girls",
+   "n": 12,
+   "type": "sentence",
+   "stem": "学校外面今早交通堵塞，___。",
+   "options": [
+    "救护人员能把受伤的司机送去医院",
+    "大家不管三七二十一拼命地喊救命",
+    "路上的车子只能慢慢地往前方行驶",
+    "巴士司机经常提醒大家要遵守规则"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q13",
+   "school": "Raffles_Girls",
+   "n": 13,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（坚固）",
+   "options": [
+    "每天早上和傍晚，爸爸都坚固去公园跑步。",
+    "妹妹的个子矮小，但力气却比任何人坚固。",
+    "弟弟从小到大都很坚固，不听别人的劝告。",
+    "这座桥建造得十分坚固，可以使用很多年。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q14",
+   "school": "Raffles_Girls",
+   "n": 14,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（防止）",
+   "options": [
+    "为了防止意外的发生，我们不能在食堂奔跑。",
+    "地铁上防止大声说话，乘客们都小声地谈天。",
+    "看到他用石头丢小猫，我们立刻上前防止他。",
+    "突然下起了倾盆大雨，这场比赛只好先防止。"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Raffles_Girls-Q15",
+   "school": "Raffles_Girls",
+   "n": 15,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（巧妙）",
+   "options": [
+    "今天爷爷下楼散步时，巧妙地遇到了邻居王伯伯。",
+    "姐姐参加了合唱团之后，十分巧妙地把歌曲唱好。",
+    "昨晚我做了一个巧妙的梦，梦见自己去月球旅行。",
+    "小月巧妙地结合动作和乐曲，跳出了优美的舞蹈。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q1",
+   "school": "Red_Swastika",
+   "n": 1,
+   "type": "pinyin",
+   "stem": "虽然时间已经很晚，同学们【仍然】留下来讨论问题。",
+   "options": [
+    "rēng nán",
+    "rēng rán",
+    "réng rán",
+    "réng lán"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q2",
+   "school": "Red_Swastika",
+   "n": 2,
+   "type": "pinyin",
+   "stem": "我慢慢地【恢复】了自信，回答老师的次数也越来越多了。",
+   "options": [
+    "huī fù",
+    "huí fú",
+    "huì fèi",
+    "huī fēi"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q3",
+   "school": "Red_Swastika",
+   "n": 3,
+   "type": "hanzi",
+   "stem": "为了多赚一点钱，爷爷决定把多出来的房间___出去。",
+   "options": [
+    "组",
+    "助",
+    "阻",
+    "租"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q4",
+   "school": "Red_Swastika",
+   "n": 4,
+   "type": "hanzi",
+   "stem": "那位表演者很棒，他都可以模___别人做的动作。",
+   "options": [
+    "亿",
+    "仿",
+    "促",
+    "依"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q5",
+   "school": "Red_Swastika",
+   "n": 5,
+   "type": "word",
+   "stem": "老师对学生的作业要求很___，每一个错别字都不放过。",
+   "options": [
+    "严格",
+    "细心",
+    "认真",
+    "自豪"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q6",
+   "school": "Red_Swastika",
+   "n": 6,
+   "type": "word",
+   "stem": "老板和员工们正在开会，我们别进去___他们。",
+   "options": [
+    "欢迎",
+    "打扰",
+    "吵闹",
+    "帮助"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q7",
+   "school": "Red_Swastika",
+   "n": 7,
+   "type": "meaning",
+   "stem": "这些建筑工人为国家的早期建设做出了巨大的【贡献】。",
+   "options": [
+    "让人民明白建筑的重要",
+    "使国家和人民得到关怀",
+    "为国家和人民尽一份力",
+    "让人民有建设国家的机会"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q8",
+   "school": "Red_Swastika",
+   "n": 8,
+   "type": "meaning",
+   "stem": "打雷了，妈妈【暂时】不让我们出去外面玩。",
+   "options": [
+    "永远",
+    "立刻",
+    "一眨眼",
+    "短时间"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q9",
+   "school": "Red_Swastika",
+   "n": 9,
+   "type": "connector",
+   "stem": "___天气很热，小明还是坚持每天跑步锻炼身体。",
+   "options": [
+    "尽管",
+    "由于",
+    "如果",
+    "只有"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q10",
+   "school": "Red_Swastika",
+   "n": 10,
+   "type": "connector",
+   "stem": "大明___勤奋好学，___喜欢帮助别人。",
+   "options": [
+    "一边……一边",
+    "因为……所以",
+    "虽然……但是",
+    "不仅……而且"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q11",
+   "school": "Red_Swastika",
+   "n": 11,
+   "type": "sentence",
+   "stem": "也许你用小华的方法，___。",
+   "options": [
+    "一定会成功完成任务的",
+    "不可以准备更多的工具",
+    "就可以查出大象的重量了",
+    "应该去问问老师的意见吧"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q12",
+   "school": "Red_Swastika",
+   "n": 12,
+   "type": "sentence",
+   "stem": "___，小明用了有趣的方法来呈现。",
+   "options": [
+    "为了节省时间",
+    "为了准备运动会",
+    "为了完成科学作业",
+    "为了赢得讲故事比赛"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q13",
+   "school": "Red_Swastika",
+   "n": 13,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（胸有成竹）",
+   "options": [
+    "老师提出一个难题，小明胸有成竹地举手回答。",
+    "弟弟肚子饿，妈妈胸有成竹地煮了一碗面给他。",
+    "爸爸工作累了，胸有成竹地躺在沙发上看电视。",
+    "小华不会做这道题，就胸有成竹地坐在那里发呆。"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q14",
+   "school": "Red_Swastika",
+   "n": 14,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（充足）",
+   "options": [
+    "弟弟跑得太快了，结果充足地摔在地上。",
+    "这道数学题很难，你要充足地想一想。",
+    "没有充足的阳光，植物无法好好地生长。",
+    "表哥每天都很充足，因为他喜欢学新东西。"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "Red_Swastika-Q15",
+   "school": "Red_Swastika",
+   "n": 15,
+   "type": "usage",
+   "stem": "以下哪一个句子是正确的？（避免）",
+   "options": [
+    "那个明星不想回答问题，便避免地低下了头。",
+    "天空突然下起大雨，小华避免在走廊里等待。",
+    "前方的路发生了交通意外，司机避免了这条路。",
+    "妈妈提醒我要小心过马路，避免发生交通意外。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q1",
+   "school": "St_Nicholas",
+   "n": 1,
+   "type": "pinyin",
+   "stem": "尤今是新加坡【著名】的作家。",
+   "options": [
+    "zù mín",
+    "zù míng",
+    "zhù mín",
+    "zhù míng"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q2",
+   "school": "St_Nicholas",
+   "n": 2,
+   "type": "pinyin",
+   "stem": "每逢过年，牛车水都充满了浓浓的春节【气氛】。",
+   "options": [
+    "cì fēn",
+    "cì fèn",
+    "qì fēn",
+    "qì fèn"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q3",
+   "school": "St_Nicholas",
+   "n": 3,
+   "type": "hanzi",
+   "stem": "奶奶在食堂___了一个摊位卖豆花水。",
+   "options": [
+    "组",
+    "租",
+    "祖",
+    "阻"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q4",
+   "school": "St_Nicholas",
+   "n": 4,
+   "type": "hanzi",
+   "stem": "店内的___售员热情地向顾客介绍商品。",
+   "options": [
+    "精",
+    "消",
+    "销",
+    "悄"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q5",
+   "school": "St_Nicholas",
+   "n": 5,
+   "type": "word",
+   "stem": "考试快到了，老师___我们要复习功课。",
+   "options": [
+    "教导",
+    "命令",
+    "请求",
+    "提醒"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q6",
+   "school": "St_Nicholas",
+   "n": 6,
+   "type": "word",
+   "stem": "花木兰在战场上英勇杀敌，___自己的国家。",
+   "options": [
+    "保管",
+    "保持",
+    "保卫",
+    "保证"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q7",
+   "school": "St_Nicholas",
+   "n": 7,
+   "type": "meaning",
+   "stem": "我【打败】所有的对手，取得了冠军。",
+   "options": [
+    "赢了对手",
+    "赶走对手",
+    "推倒对手",
+    "攻打对手"
+   ],
+   "answer": 0,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q8",
+   "school": "St_Nicholas",
+   "n": 8,
+   "type": "meaning",
+   "stem": "听了哥哥的解释后，我【恍然大悟】，发现我错怪了他。",
+   "options": [
+    "突然醒来",
+    "突然明白",
+    "突然猜中",
+    "突然想起"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q9",
+   "school": "St_Nicholas",
+   "n": 9,
+   "type": "connector",
+   "stem": "___明天是否下雨，我们___会去探望外婆。",
+   "options": [
+    "如果……就",
+    "不管……都",
+    "除了……还",
+    "就算……也"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q10",
+   "school": "St_Nicholas",
+   "n": 10,
+   "type": "connector",
+   "stem": "___我们有时间，___去老人院做义工。",
+   "options": [
+    "与其……不如",
+    "除非……不然",
+    "尽管……还是",
+    "反正……不如"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q11",
+   "school": "St_Nicholas",
+   "n": 11,
+   "type": "sentence",
+   "stem": "一开始我对新学校感到陌生，___。",
+   "options": [
+    "总是忘记完成作业",
+    "后来就慢慢熟悉了",
+    "认识了很多新朋友",
+    "时不时被老师批评"
+   ],
+   "answer": 1,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q12",
+   "school": "St_Nicholas",
+   "n": 12,
+   "type": "sentence",
+   "stem": "___，才把钢琴搬上楼。",
+   "options": [
+    "搬家工人不费吹灰之力",
+    "同学们浪费了很多体力",
+    "我和妹妹花费不少日子",
+    "爸爸费了九牛二虎之力"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q13",
+   "school": "St_Nicholas",
+   "n": 13,
+   "type": "usage",
+   "stem": "以下哪个句子是正确的？（表达）",
+   "options": [
+    "爸爸点点头表达同意大家的看法。",
+    "老师表达他是个乐于助人的孩子。",
+    "我们在比赛中有非常出色的表达。",
+    "我写了一首歌表达对祖国的热爱。"
+   ],
+   "answer": 3,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q14",
+   "school": "St_Nicholas",
+   "n": 14,
+   "type": "usage",
+   "stem": "以下哪个句子是正确的？（津津有味）",
+   "options": [
+    "放工回家之后，妈妈津津有味地准备晚餐。",
+    "一大早，校工阿姨就津津有味地打扫课室。",
+    "华文课上，我们津津有味地听老师讲故事。",
+    "考试时，同学们津津有味地回答每道问题。"
+   ],
+   "answer": 2,
+   "note": null
+  },
+  {
+   "id": "St_Nicholas-Q15",
+   "school": "St_Nicholas",
+   "n": 15,
+   "type": "usage",
+   "stem": "以下哪个句子是正确的？（贴心）",
+   "options": [
+    "我们有问题时，老师都会贴心地为我们解答。",
+    "我需要更加贴心，才不会犯这种粗心的错误。",
+    "看到爷爷冷得发抖，我贴心地为他披上外套。",
+    "妹妹会贴心爸爸妈妈，体谅他们工作的辛苦。"
+   ],
+   "answer": 2,
+   "note": null
+  }
+ ],
+ "cloze": [
+  {
+   "school": "ACS_Junior",
+   "passage": "伟强很喜欢制作模型，可每次美术课上的手工他都做得不好。最近学校举办了一次模型制作比赛，伟强也报名了。\n刚开始的时候，伟强一直失败，但他没有放弃，而是想尽办法{16}困难。他每天回到家后，都会认真查找资料，最后制订出了一份非常{17}的计划。\n到了比赛那天，伟强不慌不忙地完成了作品，获得冠军。当他上台领奖时，全班同学都发自内心地为他感到{18}。伟强想起自己之前的辛勤付出，觉得这一路走来并不容易，但都是值得的。\n回到班上，以前那些总是{19}伟强的同学，都主动向他道歉。老师看着这一切，{20}了伟强的成长，并送上了对伟强的祝福。伟强开心地接受老师的祝福。",
+   "blanks": [
+    {
+     "n": 16,
+     "options": [
+      "克服",
+      "解释",
+      "表现",
+      "控制"
+     ],
+     "answer": 0,
+     "note": null
+    },
+    {
+     "n": 17,
+     "options": [
+      "清楚",
+      "详细",
+      "简单",
+      "仔细"
+     ],
+     "answer": 1,
+     "note": null
+    },
+    {
+     "n": 18,
+     "options": [
+      "意外",
+      "幸福",
+      "骄傲",
+      "成功"
+     ],
+     "answer": 2,
+     "note": null
+    },
+    {
+     "n": 19,
+     "options": [
+      "嘲笑",
+      "称赞",
+      "讨论",
+      "鼓励"
+     ],
+     "answer": 0,
+     "note": null
+    },
+    {
+     "n": 20,
+     "options": [
+      "安排",
+      "见证",
+      "产生",
+      "检查"
+     ],
+     "answer": 1,
+     "note": null
+    }
+   ]
+  },
+  {
+   "school": "Ai_Tong",
+   "passage": "文华七岁开始学习写毛笔字。刚开始时，文华学得很辛苦，因为写毛笔字需要坚持练习，不能着急，也不能{16}，有时候一个字就要练习好几天，而且还不一定写得好。幸好，妈妈不断地鼓励他。在妈妈的{17}下，他的毛笔字写得越来越好。\n十岁那年，文华参加学校举办的书法比赛，得了二等奖。文华非常开心，他{18}练习了三年，总算有了收获。文华把得奖的消息告诉了妈妈，还说想把得奖作品挂在客厅里，这样他一看到作品，就能{19}起得奖时的喜悦。但妈妈却说：“我不希望你把它当成最好的作品挂起来，你还要好好练习，争取更大的进步。”文华明白了妈妈的意思。\n从这以后，文华更加用心地练习书法，也更{20}地要求自己。现在，他的字写得比获奖作品更好了。",
+   "blanks": [
+    {
+     "n": 16,
+     "options": [
+      "紧张",
+      "懒惰",
+      "担心",
+      "烦恼"
+     ],
+     "answer": 1,
+     "note": null
+    },
+    {
+     "n": 17,
+     "options": [
+      "陪伴",
+      "控制",
+      "管理",
+      "计划"
+     ],
+     "answer": 0,
+     "note": null
+    },
+    {
+     "n": 18,
+     "options": [
+      "顽强",
+      "充实",
+      "继续",
+      "勤奋"
+     ],
+     "answer": 3,
+     "note": null
+    },
+    {
+     "n": 19,
+     "options": [
+      "记得",
+      "回忆",
+      "想象",
+      "浮现"
+     ],
+     "answer": 1,
+     "note": null
+    },
+    {
+     "n": 20,
+     "options": [
+      "严格",
+      "努力",
+      "肯定",
+      "正确"
+     ],
+     "answer": 0,
+     "note": null
+    }
+   ]
+  },
+  {
+   "school": "Catholic_High",
+   "passage": "丁丁从小就喜欢打篮球，每当看到校队的球员在球场上比赛时，他的心里就十分羡慕。他多么{16}有一天能代表学校参加篮球比赛。为了实现这个愿望，他每天放学后都会到附近的篮球场练习。\n虽然练习的过程很{17}，但是丁丁从不喊累。丁丁投篮的技术一向不太好，投篮总是投不中。看到队友们的篮球打得那么好，丁丁开始对自己失去了信心，他想要{18}打篮球。\n好朋友小乐知道了，便{19}他：“别担心，我会和你一起训练的。”在小乐的帮助下，丁丁每天努力练习，球艺也越来越好。\n后来，丁丁{20}了内心的压力，成功进入了校队。",
+   "blanks": [
+    {
+     "n": 16,
+     "options": [
+      "幻想",
+      "期盼",
+      "打算",
+      "愿意"
+     ],
+     "answer": 1,
+     "note": null
+    },
+    {
+     "n": 17,
+     "options": [
+      "严重",
+      "烦恼",
+      "辛苦",
+      "详细"
+     ],
+     "answer": 2,
+     "note": null
+    },
+    {
+     "n": 18,
+     "options": [
+      "放弃",
+      "拒绝",
+      "防止",
+      "离开"
+     ],
+     "answer": 0,
+     "note": null
+    },
+    {
+     "n": 19,
+     "options": [
+      "赞赏",
+      "吩咐",
+      "安慰",
+      "提醒"
+     ],
+     "answer": 2,
+     "note": null
+    },
+    {
+     "n": 20,
+     "options": [
+      "控制",
+      "避免",
+      "面对",
+      "克服"
+     ],
+     "answer": 3,
+     "note": null
+    }
+   ]
+  },
+  {
+   "school": "Henry_Park",
+   "passage": "我从小就挑食，只爱吃零食和快餐。结果上学期体能测试的时候，我的体能比同学差了很多。妈妈看在眼里，悄悄改变了家里的饮食安排。现在，我家{16}了所有含糖饮料，改成用新鲜果汁代替。每天早上，她还会为我准备营养丰富的早餐。我也渐渐养成了晨跑的习惯。我发现早上运动之后，上课时更有{17}，做事情也更专心了。\n{18}，我还参加了学校的羽毛球队。每周三放学后训练两小时，这让我的体力得到了很大的锻炼。体育老师告诉我，{19}坚持运动，睡眠也同样重要。现在我不再整晚玩手机，每天一定会在十点前睡觉。\n经过半年的努力，我的体重{20}了五公斤！健康的生活方式，真的能让生活变得更美好！",
+   "blanks": [
+    {
+     "n": 16,
+     "options": [
+      "禁止",
+      "阻拦",
+      "拒绝",
+      "收拾"
+     ],
+     "answer": 0,
+     "note": null
+    },
+    {
+     "n": 17,
+     "options": [
+      "力量",
+      "精神",
+      "意义",
+      "耐心"
+     ],
+     "answer": 1,
+     "note": "（学校答案卷写的是 4，但根据上下文，正确答案应为 2。）"
+    },
+    {
+     "n": 18,
+     "options": [
+      "所以",
+      "此外",
+      "而且",
+      "然后"
+     ],
+     "answer": 1,
+     "note": "（学校答案卷写的是 4，但根据上下文，正确答案应为 2。）"
+    },
+    {
+     "n": 19,
+     "options": [
+      "要是",
+      "只有",
+      "除了",
+      "或者"
+     ],
+     "answer": 2,
+     "note": null
+    },
+    {
+     "n": 20,
+     "options": [
+      "调节",
+      "消失",
+      "控制",
+      "减少"
+     ],
+     "answer": 3,
+     "note": null
+    }
+   ]
+  },
+  {
+   "school": "Methodist_Girls",
+   "passage": "在新加坡，被丢弃的食物占垃圾总量的百分之十。为了{16}浪费，一群义工每个星期六都会到面包店收集剩下的面包，再分发给贫困人士。林文康是其中一名“抢救”面包的义工。\n林文康的{17}是在星期六晚上到三家面包店收集卖不出去的面包，再把面包送到指定的民众俱乐部。第二天早上，有需要的人可以到民众俱乐部{18}面包。\n林文康在接受记者采访时，说：“小时候，我经常看到父母买东西送给无依无靠的邻居。在他们的{19}下，我也希望长大后能帮助有需要的人，为社会尽一份力。”\n计划刚开始时，林文康也遇到不少的挑战。例如：一些面包店的店主就算丢掉剩下的面包，也不愿意捐出来，因为他们担心这对花钱买面包的顾客不公平。但是，经过他耐心解释后，他们都乐意{20}这个计划。\n林文康说：“我们的计划不但抢救了即将被丢弃的面包，还为有需要的人带来温暖。我们希望更多人能注意食物浪费的问题。”",
+   "blanks": [
+    {
+     "n": 16,
+     "options": [
+      "减弱",
+      "减低",
+      "减轻",
+      "减少"
+     ],
+     "answer": 3,
+     "note": null
+    },
+    {
+     "n": 17,
+     "options": [
+      "任务",
+      "活动",
+      "目的",
+      "条件"
+     ],
+     "answer": 0,
+     "note": null
+    },
+    {
+     "n": 18,
+     "options": [
+      "接受",
+      "购买",
+      "领取",
+      "交换"
+     ],
+     "answer": 2,
+     "note": null
+    },
+    {
+     "n": 19,
+     "options": [
+      "吩咐",
+      "影响",
+      "提议",
+      "管理"
+     ],
+     "answer": 1,
+     "note": null
+    },
+    {
+     "n": 20,
+     "options": [
+      "举行",
+      "支持",
+      "负责",
+      "安排"
+     ],
+     "answer": 1,
+     "note": null
+    }
+   ]
+  },
+  {
+   "school": "Nan_Hua",
+   "passage": "小兔想学画画，可它总是画不好。兔妈妈对小兔说：“你要先相信自己一定能学会，然后{16}练习，就会成功。”小兔点点头，拿起画笔开始练习。\n第一天，小兔画了一根萝卜，可是画得很不好看。它有些灰心，想要放弃。兔妈妈没有{17}它，而是笑着说：“刚开始都是这样的，{18}是大画家，也是一点一点练出来的。”\n接下来的日子，小兔每天放学后都练习画画。有时候画得不好，它就擦了重画。一个星期过去了，小兔发现自己画得越来越好了。它心里{19}了希望。\n周末，学校举行画画比赛，小兔也报名参加了。它认认真真地画了一幅《春天的森林》。比赛结果出来，小兔获得了冠军！它{20}，抱着妈妈说：“我居然成功了！”\n小兔终于明白了一个道理：做任何事情，只要相信自己，就一定能做好。",
+   "blanks": [
+    {
+     "n": 16,
+     "options": [
+      "热心",
+      "严格",
+      "勤奋",
+      "迅速"
+     ],
+     "answer": 2,
+     "note": null
+    },
+    {
+     "n": 17,
+     "options": [
+      "批评",
+      "担心",
+      "提醒",
+      "鼓励"
+     ],
+     "answer": 0,
+     "note": null
+    },
+    {
+     "n": 18,
+     "options": [
+      "虽然",
+      "就算",
+      "而且",
+      "除了"
+     ],
+     "answer": 1,
+     "note": null
+    },
+    {
+     "n": 19,
+     "options": [
+      "留下",
+      "增加",
+      "充满",
+      "取得"
+     ],
+     "answer": 2,
+     "note": null
+    },
+    {
+     "n": 20,
+     "options": [
+      "激动人心",
+      "恍然大悟",
+      "心满意足",
+      "喜出望外"
+     ],
+     "answer": 3,
+     "note": null
+    }
+   ]
+  },
+  {
+   "school": "Nanyang",
+   "passage": "每当经过那间旧书店，我都会想起一件往事。\n那年假期，弟弟让我帮他去买一本书。我不怕跑腿，只是不喜欢那间书店的老板。他态度{16}，对人爱理不理，讲话总是冷冰冰的，让人觉得很不舒服。\n来到店里，我跟老板说要买一本书。他说了几个字，但我没听清，想请他重复一次。他头也不抬地指着柜台旁的书架，说：“那边！”我虽然心中{17}愤怒，但还是咬牙忍住，赶紧来到书架旁，避免和他争吵。\n这时，一位中学生拿着一本书走来柜台，面带笑容地问：“叔叔，这本科学书多少钱？”中学生亲切的笑容却换来老板的冷漠对待：“三块钱！”让我意想不到的是，那位中学生{18}保持笑容，付了钱后还说：“谢谢您，祝您周末愉快！”老板冷着脸，没有任何反应。\n看到这里，我忍不住好奇地追上那位中学生，问他：“这个老板对你这么没礼貌，你不生气吗？”那位中学生停下脚步说：“他怎么对待我，我没必要去{19}他。我的人生应该由我自己做主。如果我轻易让他人的态度{20}自己的心情，那么快乐也将不再属于我自己。”\n那位中学生的话令我获益良多。自此，我以他为榜样，不论什么事，我都要求自己保持乐观的心境。",
+   "blanks": [
+    {
+     "n": 16,
+     "options": [
+      "凶狠",
+      "恶劣",
+      "强硬",
+      "粗心"
+     ],
+     "answer": 1,
+     "note": null
+    },
+    {
+     "n": 17,
+     "options": [
+      "充满",
+      "充足",
+      "充实",
+      "充分"
+     ],
+     "answer": 0,
+     "note": null
+    },
+    {
+     "n": 18,
+     "options": [
+      "果然",
+      "突然",
+      "既然",
+      "仍然"
+     ],
+     "answer": 3,
+     "note": null
+    },
+    {
+     "n": 19,
+     "options": [
+      "苦恼",
+      "悲伤",
+      "抱怨",
+      "担忧"
+     ],
+     "answer": 2,
+     "note": null
+    },
+    {
+     "n": 20,
+     "options": [
+      "选择",
+      "影响",
+      "麻烦",
+      "打败"
+     ],
+     "answer": 1,
+     "note": null
+    }
+   ]
+  },
+  {
+   "school": "Raffles_Girls",
+   "passage": "美阳小学最近开始进行“安静十分钟”活动，让同学每天上课前静下心来，为一天的学习做好准备。\n一开始，有些同学不了解这项活动的{16}，觉得浪费时间。可是在老师的带领下，大家尝试在上课前整理书包、复习学习内容。不久，很多同学发现，这种准备能有效地{17}他们在课堂上的学习表现。\n养成习惯后，同学们变得更专心，各项任务也能更{18}地完成。此外，安静的环境也让大家有时间想一想可以如何做得更好，使学习态度变得更{19}。\n渐渐地，同学们明白了，小小的改变也能带来{20}的进步。",
+   "blanks": [
+    {
+     "n": 16,
+     "options": [
+      "道理",
+      "结果",
+      "流程",
+      "意义"
+     ],
+     "answer": 3,
+     "note": null
+    },
+    {
+     "n": 17,
+     "options": [
+      "提高",
+      "影响",
+      "代替",
+      "控制"
+     ],
+     "answer": 0,
+     "note": null
+    },
+    {
+     "n": 18,
+     "options": [
+      "勇敢",
+      "顺利",
+      "丰富",
+      "能干"
+     ],
+     "answer": 1,
+     "note": null
+    },
+    {
+     "n": 19,
+     "options": [
+      "优秀",
+      "美好",
+      "积极",
+      "珍贵"
+     ],
+     "answer": 2,
+     "note": null
+    },
+    {
+     "n": 20,
+     "options": [
+      "清楚",
+      "巨大",
+      "暂时",
+      "宽阔"
+     ],
+     "answer": 1,
+     "note": null
+    }
+   ]
+  },
+  {
+   "school": "Red_Swastika",
+   "passage": "很久以前，一个乡村发生了严重的水灾。农田被水淹了，很多村民都饿死了，生活十分辛苦。\n一位有钱人知道情况后，便{16}了很多食物，到村子里分给村民。他心想：他们吃了我给的食物，一定会称赞我是个好人！\n这一天，有钱人带了食物到村子。这时，一个村民慢慢走来。他已经饿了好几天，走路有气无力。有钱人看见他，立刻举起食物，大声说：“快来吃吧！让我这个{17}的好心人来帮助你！”\n村民说：“帮助别人{18}要真心诚意，才有意义。如果只是为了得到称赞，就失去帮助他人的意义。在帮助别人之前，你应该先{19}自己为什么要做这件事情。”有钱人回答道：“我没有那个意思！”\n村民接着说：“虽然你很有钱，但是我是不会{20}你生活过得那么好的！”有钱人听后，满脸通红，十分惭愧。从那天起，他学会了用真诚的心去帮助别人。",
+   "blanks": [
+    {
+     "n": 16,
+     "options": [
+      "准备",
+      "选择",
+      "参加",
+      "走向"
+     ],
+     "answer": 0,
+     "note": null
+    },
+    {
+     "n": 17,
+     "options": [
+      "勤劳",
+      "慈祥",
+      "慷慨",
+      "勇敢"
+     ],
+     "answer": 2,
+     "note": null
+    },
+    {
+     "n": 18,
+     "options": [
+      "已经",
+      "必须",
+      "可能",
+      "需要"
+     ],
+     "answer": 1,
+     "note": null
+    },
+    {
+     "n": 19,
+     "options": [
+      "询问",
+      "改变",
+      "检查",
+      "考虑"
+     ],
+     "answer": 3,
+     "note": null
+    },
+    {
+     "n": 20,
+     "options": [
+      "担忧",
+      "后悔",
+      "妒忌",
+      "喜欢"
+     ],
+     "answer": 2,
+     "note": null
+    }
+   ]
+  },
+  {
+   "school": "St_Nicholas",
+   "passage": "小云的奶奶很会种花。小云常常蹲在花盆旁，看奶奶松土、浇水，觉得十分{16}。\n这天，奶奶买了一包种子，准备种在花盆里。小云也想种花，就向奶奶要了一颗种子，把它埋进泥土里。一个星期过去了，花盆里一点{17}都没有。小云翻开泥土一看，原来种子已经腐烂了。奶奶对她说：“种子种得太深，埋在土里不透气就很难发芽，甚至会烂掉。”\n小云听了奶奶的话，决定再{18}一次。几天后，她发现花盆里的泥土冒出了绿苗。她忍不住轻轻拨开泥土，想帮它更快长出来。可是幼苗被太阳一晒，很快就干枯了。奶奶摇摇头说：“你太心急了，种子生根发芽，钻出泥土，都要靠自己的力量，这样才能长得更好。”\n听到这里，小云{19}地种下第三颗种子。这一次，她按时浇水，并慢慢等待。一周后，一根小苗从土里钻了出来。小苗虽然细细的，却挺直地站着，在阳光下显得特别精神。\n小云终于明白做任何事就像种花，既要用对方法，也要努力付出，并{20}等待，才能迎来美丽的花开。",
+   "blanks": [
+    {
+     "n": 16,
+     "options": [
+      "乐趣",
+      "有趣",
+      "兴趣",
+      "风趣"
+     ],
+     "answer": 1,
+     "note": null
+    },
+    {
+     "n": 17,
+     "options": [
+      "反应",
+      "声音",
+      "影响",
+      "动静"
+     ],
+     "answer": 3,
+     "note": null
+    },
+    {
+     "n": 18,
+     "options": [
+      "制作",
+      "尝试",
+      "练习",
+      "坚持"
+     ],
+     "answer": 1,
+     "note": null
+    },
+    {
+     "n": 19,
+     "options": [
+      "努力",
+      "详细",
+      "小心",
+      "勇敢"
+     ],
+     "answer": 2,
+     "note": null
+    },
+    {
+     "n": 20,
+     "options": [
+      "耐心",
+      "专心",
+      "细心",
+      "热心"
+     ],
+     "answer": 0,
+     "note": null
+    }
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "school": "ACS_Junior",
+   "options": [
+    "机票肯定很贵",
+    "我想每天玩游戏",
+    "感谢伟大的建筑工人",
+    "我的爸妈会带我去旅行",
+    "你可以跟我一起出国啊",
+    "看一看以前贵族居住的城堡",
+    "要不我多拍一些照片给你看吧",
+    "可惜我的父母工作实在太忙了"
+   ],
+   "lines": [
+    {
+     "who": "叶明",
+     "text": "洋洋，假期你会做什么？"
+    },
+    {
+     "who": "洋洋",
+     "text": "{26}，好好放松一下。"
+    },
+    {
+     "who": "叶明",
+     "text": "你们会去哪里？"
+    },
+    {
+     "who": "洋洋",
+     "text": "我的爸妈请了十五天的长假，他们会带我去欧洲，{27}。"
+    },
+    {
+     "who": "叶明",
+     "text": "哇！我也喜欢传统建筑。可是欧洲那么远，{28}，我的父母不会带我去的。"
+    },
+    {
+     "who": "洋洋",
+     "text": "别失望，等你以后自己赚钱了再去也不迟。"
+    },
+    {
+     "who": "叶明",
+     "text": "哈哈，那还得等上十几年呢！"
+    },
+    {
+     "who": "洋洋",
+     "text": "{29}！这样你不出国也能看到美丽的风景了。"
+    },
+    {
+     "who": "叶明",
+     "text": "这真是个好主意！"
+    }
+   ],
+   "answers": {
+    "26": 3,
+    "27": 5,
+    "28": 0,
+    "29": 6
+   }
+  },
+  {
+   "school": "Ai_Tong",
+   "options": [
+    "鱼丸面的队伍太长",
+    "我借了图书馆的书",
+    "为什么不去课室里找",
+    "连书的影子都没有看到",
+    "妈妈帮我找到了那本书",
+    "或者会不会是在课室里",
+    "你去失物招领处看一看",
+    "我要不要去找老师承认错误"
+   ],
+   "lines": [
+    {
+     "who": "乐文",
+     "text": "小丽，你怎么还没去买你最爱的鱼丸面？"
+    },
+    {
+     "who": "小丽",
+     "text": "{26}，今天是还书的最后期限！"
+    },
+    {
+     "who": "乐文",
+     "text": "是吗？我陪你去图书馆还书吧。"
+    },
+    {
+     "who": "小丽",
+     "text": "可是，我借的那本书不见了。昨天我在家里翻遍了每一个角落，{27}。"
+    },
+    {
+     "who": "乐文",
+     "text": "你有没有放在书包里，{28}？"
+    },
+    {
+     "who": "小丽",
+     "text": "乐文，这些地方我当然都找了，还是找不到。怎么办？{29}？"
+    },
+    {
+     "who": "乐文",
+     "text": "对呀！我觉得你先去主动认错比较好。"
+    }
+   ],
+   "answers": {
+    "26": 1,
+    "27": 3,
+    "28": 5,
+    "29": 7
+   }
+  },
+  {
+   "school": "Catholic_High",
+   "options": [
+    "难道只是一点皮外伤",
+    "幸好火还没太大之前",
+    "你的家没受到影响吧",
+    "其实发生火灾的原因很多",
+    "发生火灾的情景好可怕啊",
+    "听说是电器用电过多造成的",
+    "我还是第一次经历这么惊险的事",
+    "对面组屋有人看到房子冒出浓烟"
+   ],
+   "lines": [
+    {
+     "who": "杰明",
+     "text": "昨天，我楼上的邻居家发生了火灾。"
+    },
+    {
+     "who": "小陈",
+     "text": "怎么会发生火灾？"
+    },
+    {
+     "who": "杰明",
+     "text": "{26}。"
+    },
+    {
+     "who": "小陈",
+     "text": "情况严重吗？"
+    },
+    {
+     "who": "杰明",
+     "text": "{27}，消防员赶到现场，把火灭了。"
+    },
+    {
+     "who": "小陈",
+     "text": "这真是太幸运了！"
+    },
+    {
+     "who": "杰明",
+     "text": "对啊。{28}，便马上打电话通知消防局。"
+    },
+    {
+     "who": "小陈",
+     "text": "{29}？"
+    },
+    {
+     "who": "杰明",
+     "text": "没有，不过邻居家的家具都被烧坏，墙壁也被烧黑。"
+    },
+    {
+     "who": "小陈",
+     "text": "希望以后大家使用电器时要小心，避免发生意外。"
+    }
+   ],
+   "answers": {
+    "26": 5,
+    "27": 1,
+    "28": 7,
+    "29": 2
+   }
+  },
+  {
+   "school": "Henry_Park",
+   "options": [
+    "也可以减少争吵",
+    "这里的环境恶劣",
+    "我们需要团结起来",
+    "我们可以主动打招呼",
+    "并且积极地和邻居交流",
+    "最近邻居们都互不来往",
+    "珍惜这美好的居住环境",
+    "还能认识住在周围的邻居"
+   ],
+   "lines": [
+    {
+     "who": "王阿姨",
+     "text": "小李啊，最近好像很少看到大家聚在一起聊天了。"
+    },
+    {
+     "who": "小李",
+     "text": "是啊，王阿姨。{26}，大家下班回来都关着门。"
+    },
+    {
+     "who": "王阿姨",
+     "text": "这样可不好。你觉得我们该怎么改善呢？"
+    },
+    {
+     "who": "小李",
+     "text": "这可简单了！{27}，慢慢地和邻居增进感情。"
+    },
+    {
+     "who": "王阿姨",
+     "text": "你说得对。例如，在电梯里遇到邻居，可以微笑点头。"
+    },
+    {
+     "who": "小李",
+     "text": "我们也可以多参加民众俱乐部举办的活动，充实自己的当儿，{28}。"
+    },
+    {
+     "who": "王阿姨",
+     "text": "就像我们俩一样，是因为一起参加义工活动而认识的啊！"
+    },
+    {
+     "who": "小李",
+     "text": "就是嘛！我们应该多参加社区活动，{29}，让邻居之间的关系越来越好。"
+    },
+    {
+     "who": "王阿姨",
+     "text": "是的！你说的有道理！"
+    }
+   ],
+   "answers": {
+    "26": 5,
+    "27": 3,
+    "28": 7,
+    "29": 4
+   }
+  },
+  {
+   "school": "Methodist_Girls",
+   "options": [
+    "我本来是打算去的",
+    "他一定等了你很久",
+    "他一定以为你出事了",
+    "小安应该是直接回家了",
+    "不知道他是否会原谅我",
+    "但是我临时决定去踢球",
+    "人与人相处最重要的是讲信用",
+    "朋友之间本来就应该互相体谅"
+   ],
+   "lines": [
+    {
+     "who": "康康",
+     "text": "子强，你今天怎么没跟小安一起回家？"
+    },
+    {
+     "who": "子强",
+     "text": "放学后，我叫了小安，但是他没有理我。"
+    },
+    {
+     "who": "康康",
+     "text": "你们到底发生了什么事？"
+    },
+    {
+     "who": "子强",
+     "text": "我星期天下午跟他约了去买书，{26}，就没有去。"
+    },
+    {
+     "who": "康康",
+     "text": "那你事先告诉小安了吗？"
+    },
+    {
+     "who": "子强",
+     "text": "没有。"
+    },
+    {
+     "who": "康康",
+     "text": "难怪小安会不理你！小安一向很守信用，你没有提前告诉他，{27}。"
+    },
+    {
+     "who": "子强",
+     "text": "小安这样也太小气了，我改天再和他去买书也一样啊！"
+    },
+    {
+     "who": "康康",
+     "text": "你这样想就不对了。{28}，答应别人的事就应该做到。如果实在没办法，就应该先告诉对方。"
+    },
+    {
+     "who": "子强",
+     "text": "你说得对，我的确做错了。我回家后，就会打电话向小安道歉，{29}。"
+    },
+    {
+     "who": "康康",
+     "text": "只要你真心向小安道歉，我相信他会原谅你的。"
+    }
+   ],
+   "answers": {
+    "26": 5,
+    "27": 1,
+    "28": 6,
+    "29": 4
+   }
+  },
+  {
+   "school": "Nan_Hua",
+   "options": [
+    "其他乘客都有帮忙",
+    "是不是又发脾气了？",
+    "这件事让我很生气",
+    "什么事令你这么激动？",
+    "看到有人在地铁里乱画",
+    "遇到了非常没有公德心的人",
+    "他把糖果的包装纸丢在地上",
+    "于是我便上前劝告他不要这样做"
+   ],
+   "lines": [
+    {
+     "who": "小华",
+     "text": "哥哥，今天发生了一件令我非常生气的事。"
+    },
+    {
+     "who": "哥哥",
+     "text": "{26}快点告诉我。"
+    },
+    {
+     "who": "小华",
+     "text": "我早上搭地铁上学时，{27}。你知道他做了什么吗？"
+    },
+    {
+     "who": "哥哥",
+     "text": "难道他在地铁上乱扔垃圾？"
+    },
+    {
+     "who": "小华",
+     "text": "就是啊，{28}，然后想转头就走。"
+    },
+    {
+     "who": "哥哥",
+     "text": "地铁是公共交通工具，我们应该保持地铁里的卫生。"
+    },
+    {
+     "who": "小华",
+     "text": "我也这么觉得，{29}。"
+    },
+    {
+     "who": "哥哥",
+     "text": "他有什么反应？"
+    },
+    {
+     "who": "小华",
+     "text": "他立刻低下头，把垃圾捡起来了。"
+    }
+   ],
+   "answers": {
+    "26": 3,
+    "27": 5,
+    "28": 6,
+    "29": 7
+   }
+  },
+  {
+   "school": "Nanyang",
+   "options": [
+    "厕所的水管又滴水了",
+    "而且不是每层楼都停",
+    "这对老人来说很便利",
+    "这座组屋已经三十年了",
+    "对我那行动不便的爷爷来说",
+    "因为现在买车的人越来越多",
+    "因此大家都需要每天搭乘电梯",
+    "这样更方便小孩子们在楼下玩耍了"
+   ],
+   "lines": [
+    {
+     "who": "志光",
+     "text": "美如，你听说了吗？政府要派人来翻新我们这里的组屋了！"
+    },
+    {
+     "who": "美如",
+     "text": "太好了！{26}，设备都很老旧了。"
+    },
+    {
+     "who": "志光",
+     "text": "是啊，特别是电梯，又慢又窄小，{27}，大家都觉得很麻烦。"
+    },
+    {
+     "who": "美如",
+     "text": "对啊！电梯不能到达每一层楼，{28}，太不方便了。"
+    },
+    {
+     "who": "志光",
+     "text": "这次除了翻新组屋内部，还会一起更新电梯，真是一个好消息啊！"
+    },
+    {
+     "who": "美如",
+     "text": "除了电梯，我希望组屋楼下的儿童游乐场也会一并翻新，重新放置一些新的游乐设施。"
+    },
+    {
+     "who": "志光",
+     "text": "不仅如此，我听说停车场也会扩建，{29}。"
+    },
+    {
+     "who": "美如",
+     "text": "真是期待翻新之后的组屋啊！"
+    }
+   ],
+   "answers": {
+    "26": 3,
+    "27": 1,
+    "28": 4,
+    "29": 5
+   }
+  },
+  {
+   "school": "Raffles_Girls",
+   "options": [
+    "心里感到有点慌",
+    "遇到困难不能退缩",
+    "单独行动非常危险",
+    "便替我把晚饭做完呢",
+    "只好请级任老师来帮忙",
+    "那你们最后做出晚饭了吗",
+    "那你们最后做出了什么晚饭",
+    "一步一步地教我和队友们煎蛋呢"
+   ],
+   "lines": [
+    {
+     "who": "妈妈",
+     "text": "丁月，这次露营好玩吗？听说你们要合作准备晚饭呢！"
+    },
+    {
+     "who": "丁月",
+     "text": "还不错！不过一开始，我点不着火，{26}。"
+    },
+    {
+     "who": "妈妈",
+     "text": "哎呀，那怎么办？"
+    },
+    {
+     "who": "丁月",
+     "text": "我试了很多次都不行，后来小光看到了，就教我怎么点火。他还{27}！"
+    },
+    {
+     "who": "妈妈",
+     "text": "哇，团结就是力量，他真是个好队友！"
+    },
+    {
+     "who": "丁月",
+     "text": "是啊！还好有他的帮忙。"
+    },
+    {
+     "who": "妈妈",
+     "text": "{28}？"
+    },
+    {
+     "who": "丁月",
+     "text": "当然！吃着自己亲手做的蛋炒饭，我感到心满意足。"
+    },
+    {
+     "who": "妈妈",
+     "text": "太棒了！知道你没有半途而废，妈妈真为你骄傲！"
+    },
+    {
+     "who": "丁月",
+     "text": "是的，这次露营让我明白，{29}。"
+    }
+   ],
+   "answers": {
+    "26": 0,
+    "27": 7,
+    "28": 5,
+    "29": 1
+   }
+  },
+  {
+   "school": "Red_Swastika",
+   "options": [
+    "我身体很好",
+    "您不是才刚病好",
+    "去跑步有许多好处",
+    "听到树上鸟儿的叫声",
+    "为什么还要和您去跑步",
+    "因为让眼睛休息一会儿",
+    "周末我想在家里打打游戏",
+    "跑步后我们还可以一起去吃个早餐"
+   ],
+   "lines": [
+    {
+     "who": "爸爸",
+     "text": "庆文，你别一大早就对着手机不放，快和我一起去跑步。"
+    },
+    {
+     "who": "庆文",
+     "text": "爸爸，学校已经有体育课了，{26}？"
+    },
+    {
+     "who": "爸爸",
+     "text": "当然是要你多运动，保持身体健康。"
+    },
+    {
+     "who": "庆文",
+     "text": "{27}，还需要去跑步吗？"
+    },
+    {
+     "who": "爸爸",
+     "text": "当然需要！{28}。"
+    },
+    {
+     "who": "庆文",
+     "text": "我知道。我们不但可以晒晒太阳、呼吸新鲜空气，还可以看看大自然。"
+    },
+    {
+     "who": "爸爸",
+     "text": "没错，{29}，别总是看手机。"
+    },
+    {
+     "who": "庆文",
+     "text": "好吧！您等等我，我马上去换上运动鞋。"
+    }
+   ],
+   "answers": {
+    "26": 4,
+    "27": 0,
+    "28": 2,
+    "29": 7
+   }
+  },
+  {
+   "school": "St_Nicholas",
+   "options": [
+    "这项活动很有意义",
+    "我也想捐一些旧课本",
+    "我最喜欢收集各种颜色的笔",
+    "我的文具盒刚好需要换新的",
+    "如果大家都愿意献出一份爱心",
+    "我昨天在学校网站上看到活动通知",
+    "我听说学校每年都会举办这项活动",
+    "我打算把家里一些新的文具捐出来",
+    "希望收到文具的同学能好好珍惜这些礼物"
+   ],
+   "lines": [
+    {
+     "who": "伟明",
+     "text": "你有没有看到学校“大手牵小手”献爱心的活动通知？"
+    },
+    {
+     "who": "小丽",
+     "text": "有啊！{26}。"
+    },
+    {
+     "who": "伟明",
+     "text": "这次活动主要是为了帮助有需要的儿童收集文具用品。"
+    },
+    {
+     "who": "小丽",
+     "text": "{27}，我们应该积极参加。你会怎么帮助他们呢？"
+    },
+    {
+     "who": "伟明",
+     "text": "{28}。"
+    },
+    {
+     "who": "小丽",
+     "text": "你的想法真不错，这样既不会浪费资源，也能帮助别人。"
+    },
+    {
+     "who": "伟明",
+     "text": "我真希望有更多同学一起参加这项活动。"
+    },
+    {
+     "who": "小丽",
+     "text": "你说得对，{29}，就能帮助更多有需要的儿童。"
+    }
+   ],
+   "answers": {
+    "26": 5,
+    "27": 0,
+    "28": 7,
+    "29": 4
+   }
+  }
+ ],
+ "vocab": [
+  {
+   "school": "ACS_Junior",
+   "word": "消失",
+   "meaning": "东西减少到完全没有或完全不见",
+   "src": "def"
+  },
+  {
+   "school": "ACS_Junior",
+   "word": "孤单",
+   "meaning": "独自一人，无人陪伴",
+   "src": "def"
+  },
+  {
+   "school": "Ai_Tong",
+   "word": "甘愿",
+   "meaning": "心里十分愿意",
+   "src": "def"
+  },
+  {
+   "school": "Ai_Tong",
+   "word": "总算",
+   "meaning": "终于、最后",
+   "src": "def"
+  },
+  {
+   "school": "Catholic_High",
+   "word": "批评",
+   "meaning": "指出他人的错误，并提出意见",
+   "src": "def"
+  },
+  {
+   "school": "Catholic_High",
+   "word": "优秀",
+   "meaning": "品行非常好",
+   "src": "def"
+  },
+  {
+   "school": "Henry_Park",
+   "word": "批评",
+   "meaning": "指出缺点和错误使其改正",
+   "src": "def"
+  },
+  {
+   "school": "Henry_Park",
+   "word": "不服气",
+   "meaning": "心里不甘，觉得不公平",
+   "src": "def"
+  },
+  {
+   "school": "Methodist_Girls",
+   "word": "趁",
+   "meaning": "利用时间或机会",
+   "src": "def"
+  },
+  {
+   "school": "Methodist_Girls",
+   "word": "诚实",
+   "meaning": "不说谎、不欺骗",
+   "src": "def"
+  },
+  {
+   "school": "Nan_Hua",
+   "word": "马上",
+   "meaning": "立刻",
+   "src": "def"
+  },
+  {
+   "school": "Nan_Hua",
+   "word": "可贵",
+   "meaning": "值得珍惜",
+   "src": "def"
+  },
+  {
+   "school": "Nanyang",
+   "word": "反复",
+   "meaning": "一遍又一遍",
+   "src": "def"
+  },
+  {
+   "school": "Nanyang",
+   "word": "操心",
+   "meaning": "费心思考虑",
+   "src": "def"
+  },
+  {
+   "school": "Raffles_Girls",
+   "word": "熟练",
+   "meaning": "因为常做而了解、有经验",
+   "src": "def"
+  },
+  {
+   "school": "Raffles_Girls",
+   "word": "基本",
+   "meaning": "最主要的，不能少的",
+   "src": "def"
+  },
+  {
+   "school": "Red_Swastika",
+   "word": "恍然大悟",
+   "meaning": "对一件事情突然明白过来",
+   "src": "def"
+  },
+  {
+   "school": "Red_Swastika",
+   "word": "紧张",
+   "meaning": "心情不放松，感到担心或害怕",
+   "src": "def"
+  },
+  {
+   "school": "St_Nicholas",
+   "word": "勤奋",
+   "meaning": "认真地做事，非常努力",
+   "src": "def"
+  },
+  {
+   "school": "St_Nicholas",
+   "word": "鼓励",
+   "meaning": "通过言语或行动让人充满信心",
+   "src": "def"
+  },
+  {
+   "school": "ACS_Junior",
+   "word": "临时",
+   "pinyin": "lín shí",
+   "src": "pinyin",
+   "example": "外婆临时决定今晚不出去吃饭了。"
+  },
+  {
+   "school": "ACS_Junior",
+   "word": "经验",
+   "pinyin": "jīng yàn",
+   "src": "pinyin",
+   "example": "爷爷会给我们讲故事，也会跟我们分享生活经验。"
+  },
+  {
+   "school": "ACS_Junior",
+   "word": "激动",
+   "meaning": "感到兴奋",
+   "src": "meaning",
+   "example": "妈妈听到这个好消息，激动得流下眼泪。"
+  },
+  {
+   "school": "ACS_Junior",
+   "word": "灵机一动",
+   "meaning": "突然想出好方法",
+   "src": "meaning",
+   "example": "林伯伯灵机一动，解决了这个问题。"
+  },
+  {
+   "school": "Ai_Tong",
+   "word": "退缩",
+   "pinyin": "tuì suō",
+   "src": "pinyin",
+   "example": "为了实现自己的梦想，他从不因为困难而退缩。"
+  },
+  {
+   "school": "Ai_Tong",
+   "word": "珍惜",
+   "pinyin": "zhēn xī",
+   "src": "pinyin",
+   "example": "小明非常珍惜时间，一有空就阅读各种课外书，充实自己。"
+  },
+  {
+   "school": "Ai_Tong",
+   "word": "动静",
+   "meaning": "声音、响动",
+   "src": "meaning",
+   "example": "我听到门外有动静，于是起身去查看。"
+  },
+  {
+   "school": "Ai_Tong",
+   "word": "宜人",
+   "meaning": "合人心意",
+   "src": "meaning",
+   "example": "这里的风景宜人，大家都舍不得离开。"
+  },
+  {
+   "school": "Catholic_High",
+   "word": "暂时",
+   "pinyin": "zàn shí",
+   "src": "pinyin",
+   "example": "我的手机没电了，暂时不能用。"
+  },
+  {
+   "school": "Catholic_High",
+   "word": "印象",
+   "pinyin": "yìn xiàng",
+   "src": "pinyin",
+   "example": "这个地方的景色迷人，给我留下深刻的印象。"
+  },
+  {
+   "school": "Catholic_High",
+   "word": "榜样",
+   "meaning": "值得学习的人或事",
+   "src": "meaning",
+   "example": "大明的成绩很好，而且乐于助人，是大家的榜样。"
+  },
+  {
+   "school": "Catholic_High",
+   "word": "回忆",
+   "meaning": "想起过去的事",
+   "src": "meaning",
+   "example": "这些照片让我回忆起有趣的童年往事。"
+  },
+  {
+   "school": "Henry_Park",
+   "word": "称赞",
+   "pinyin": "chēng zàn",
+   "src": "pinyin",
+   "example": "大家对他助人为乐的行为连声称赞。"
+  },
+  {
+   "school": "Henry_Park",
+   "word": "妒忌",
+   "pinyin": "dù jì",
+   "src": "pinyin",
+   "example": "我们不应该妒忌别人的才能。"
+  },
+  {
+   "school": "Henry_Park",
+   "word": "促销",
+   "meaning": "推动商品销售",
+   "src": "meaning",
+   "example": "一到过年，购物中心就会举办各种促销活动。"
+  },
+  {
+   "school": "Henry_Park",
+   "word": "申请",
+   "meaning": "提出请求",
+   "src": "meaning",
+   "example": "如果你想成为读书会的会员，要先填写申请表格。"
+  },
+  {
+   "school": "Methodist_Girls",
+   "word": "打扰",
+   "pinyin": "dǎ rǎo",
+   "src": "pinyin",
+   "example": "邻居总是在半夜唱歌，打扰我休息。"
+  },
+  {
+   "school": "Methodist_Girls",
+   "word": "使劲",
+   "pinyin": "shǐ jìn",
+   "src": "pinyin",
+   "example": "无论弟弟怎么使劲地拉，还是无法把门打开。"
+  },
+  {
+   "school": "Methodist_Girls",
+   "word": "搜索",
+   "meaning": "仔细寻找",
+   "src": "meaning",
+   "example": "哥哥在网上搜索了很久，才找到有用的资料。"
+  },
+  {
+   "school": "Methodist_Girls",
+   "word": "传统",
+   "meaning": "很久以前留下来的",
+   "src": "meaning",
+   "example": "这些传统建筑的设计特别，已经有百年的历史了。"
+  },
+  {
+   "school": "Nan_Hua",
+   "word": "出租",
+   "pinyin": "chū zū",
+   "src": "pinyin",
+   "example": "我家楼下有一家店是出租漫画书的。"
+  },
+  {
+   "school": "Nan_Hua",
+   "word": "堵塞",
+   "pinyin": "dǔ sè",
+   "src": "pinyin",
+   "example": "爸爸下班时遇到交通堵塞，很晚才回到家。"
+  },
+  {
+   "school": "Nan_Hua",
+   "word": "考虑",
+   "meaning": "仔细地想一想",
+   "src": "meaning",
+   "example": "这件事很重要，我们必须考虑清楚。"
+  },
+  {
+   "school": "Nan_Hua",
+   "word": "抱怨",
+   "meaning": "说出心中不满",
+   "src": "meaning",
+   "example": "老师给的作业太多了，同学们纷纷抱怨。"
+  },
+  {
+   "school": "Nanyang",
+   "word": "彼此",
+   "pinyin": "bǐ cǐ",
+   "src": "pinyin",
+   "example": "在这个团队中，我们彼此学习，共同进步。"
+  },
+  {
+   "school": "Nanyang",
+   "word": "诚恳",
+   "pinyin": "chéng kěn",
+   "src": "pinyin",
+   "example": "小明知道他错了后，立刻诚恳地道歉。"
+  },
+  {
+   "school": "Nanyang",
+   "word": "损害",
+   "meaning": "使物品残破失去原来的功效",
+   "src": "meaning",
+   "example": "医生说如果吃太多糖会损害牙齿。"
+  },
+  {
+   "school": "Nanyang",
+   "word": "吩咐",
+   "meaning": "用言语指派或命令",
+   "src": "meaning",
+   "example": "出门前，妈妈再三吩咐我要带雨伞。"
+  },
+  {
+   "school": "Raffles_Girls",
+   "word": "翻译",
+   "pinyin": "fān yì",
+   "src": "pinyin",
+   "example": "表哥在大学时，上了很多翻译课程。"
+  },
+  {
+   "school": "Raffles_Girls",
+   "word": "赚钱",
+   "pinyin": "zhuàn qián",
+   "src": "pinyin",
+   "example": "上中学的丽丽下课后去做服务员，帮忙赚钱养家。"
+  },
+  {
+   "school": "Raffles_Girls",
+   "word": "搜索",
+   "meaning": "仔细寻找",
+   "src": "meaning",
+   "example": "警察在森林里搜索了几个小时，终于救出了迷路的人。"
+  },
+  {
+   "school": "Raffles_Girls",
+   "word": "普通",
+   "meaning": "不特别",
+   "src": "meaning",
+   "example": "这件衣服看起来普通，可是穿起来很舒服。"
+  },
+  {
+   "school": "Red_Swastika",
+   "word": "仍然",
+   "pinyin": "réng rán",
+   "src": "pinyin",
+   "example": "虽然时间已经很晚，同学们仍然留下来讨论问题。"
+  },
+  {
+   "school": "Red_Swastika",
+   "word": "恢复",
+   "pinyin": "huī fù",
+   "src": "pinyin",
+   "example": "我慢慢地恢复了自信，回答老师的次数也越来越多了。"
+  },
+  {
+   "school": "Red_Swastika",
+   "word": "贡献",
+   "meaning": "为国家和人民尽一份力",
+   "src": "meaning",
+   "example": "这些建筑工人为国家的早期建设做出了巨大的贡献。"
+  },
+  {
+   "school": "Red_Swastika",
+   "word": "暂时",
+   "meaning": "短时间",
+   "src": "meaning",
+   "example": "打雷了，妈妈暂时不让我们出去外面玩。"
+  },
+  {
+   "school": "St_Nicholas",
+   "word": "著名",
+   "pinyin": "zhù míng",
+   "src": "pinyin",
+   "example": "尤今是新加坡著名的作家。"
+  },
+  {
+   "school": "St_Nicholas",
+   "word": "气氛",
+   "pinyin": "qì fēn",
+   "src": "pinyin",
+   "example": "每逢过年，牛车水都充满了浓浓的春节气氛。"
+  },
+  {
+   "school": "St_Nicholas",
+   "word": "打败",
+   "meaning": "赢了对手",
+   "src": "meaning",
+   "example": "我打败所有的对手，取得了冠军。"
+  },
+  {
+   "school": "St_Nicholas",
+   "word": "恍然大悟",
+   "meaning": "突然明白",
+   "src": "meaning",
+   "example": "听了哥哥的解释后，我恍然大悟，发现我错怪了他。"
+  }
+ ]
+}
